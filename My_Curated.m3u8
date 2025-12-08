@@ -17,22 +17,22 @@ https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
 #EXTINF:-1 tvg-id="KMOSDT1.us",PBS
 https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
 
-#EXTINF:-1 tvg-id="ACCNetwork.us@SD",ACC Network (720p)
+#EXTINF:-1 tvg-id="ACCNetwork.us@SD",ACC Network
 https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="AMC.us@East",AMC East (1080p)
+#EXTINF:-1 tvg-id="AMC.us@East",AMC
 https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlant.us",Animal Planet
 https://fl1.moveonjoy.com/Animal_Planet/index.m3u8
 
-#EXTINF:-1 tvg-id="BBCAmerica.us@East",BBC America East
+#EXTINF:-1 tvg-id="BBCAmerica.us@East",BBC America
 https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
 
-#EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica",BBC News North America
+#EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica",BBC News
 https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 
-#EXTINF:-1 tvg-id="BET.us@East",BET East
+#EXTINF:-1 tvg-id="BET.us@East",BET
 https://fl1.moveonjoy.com/BET_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="BigTenNetwork.us@SD",Big Ten Network
@@ -41,13 +41,13 @@ https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@US",Bloomberg TV
 https://s2host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config3/live/origin-contribution-m1-btv-plus-localnow.m3u8?ads.cdnhost=s2host5.localnow.api.cms.amdvids.com&ads.playbackid=3FDD9DC4-FD7D-40EE-A5FC-7685A0CE122A&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=3FDD9DC4-FD7D-40EE-A5FC-7685A0CE122A&ads.n4=content_name&ads.v4=EPG%20%7C%20Bloomberg%20TV+&ads.n21=network_name&ads.v21=bloomberg-tv&ads.n22=content_provider&ads.v22=bloomberg-tv&ads.n23=ua&ads.v23=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n24=channel_company_id&ads.v24=AMDP500129&ads.n25=device_model&ads.v25=&ads.n26=channel_language&ads.v26=en&ads.n27=cust_devicename&ads.v27=desktop_web&ads.n28=content_custom_3_param&ads.v28=channel&ads.n29=ip&ads.v29=193.228.206.147&ads.n30=channel_name&ads.v30=EPG%20%20Bloomberg%20TV+&ads.n31=url&ads.v31=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n32=gpp&ads.v32=&ads.n33=device_make&ads.v33=&ads.n34=content_custom_1_param&ads.v34=3FDD9DC4-FD7D-40EE-A5FC-7685A0CE122A&ads.n35=app_store_url&ads.v35=&ads.n36=w&ads.v36=1920&ads.n37=us_privacy&ads.v37=1YNY&ads.n38=content_type&ads.v38=channel&ads.n39=app_bundle&ads.v39=&ads.n40=channel_ext_id&ads.v40=64a5746ac260a556f90c1bfc&ads.n41=content_producer_name&ads.v41=Bloomberg%20LP&ads.n42=h&ads.v42=1080&ads.n43=dnt&ads.v43=&ads.n44=app_version&ads.v44=0.0.0&ads.n45=pos&ads.v45=midroll&ads.n46=gpp_sid&ads.v46=&ads.n47=content_custom_2_param&ads.v47=AMDB012010&ads.n48=channel_title&ads.v48=EPG%20%20Bloomberg%20TV+&ads.n49=did&ads.v49=&ads.n50=app_name&ads.v50=&ads.n51=device_type&ads.v51=&ads.n52=channel_genre&ads.v52=News&ads.n53=channel_rating&ads.v53=TV-PG&ads.n54=ifa_type&ads.v54=&ads.n55=channel_brand_id&ads.v55=AMDB012010&ads.n56=content_livestream&ads.v56=1&ads.n57=channel_id&ads.v57=3FDD9DC4-FD7D-40EE-A5FC-7685A0CE122A&ads.n58=channel_corp&ads.v58=Bloomberg%20LP
 
-#EXTINF:-1 tvg-id="Bravo.us@East",Bravo East
+#EXTINF:-1 tvg-id="Bravo.us@East",Bravo
 https://fl1.moveonjoy.com/BRAVO/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork",Cartoon Network
 https://a1xs.vip/300032
 
-#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us@SD",CBS Sports Network USA
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us@SD",CBS Sports
 https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="CNBC.us@SD",CNBC
@@ -74,10 +74,10 @@ https://fl1.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.us",Discovery
 https://a1xs.vip/300034
 
-#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel East
+#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel
 https://fl1.moveonjoy.com/DISNEY/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior East
+#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior
 https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyXD.us@East",Disney XD (720p)
@@ -98,16 +98,16 @@ https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-id="ESPNews.us@SD",ESPNews (720p)
 https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 
-#EXTINF:-1 tvg-id="FanDuelSportsNetwork.us@HD",FanDuel Sports Network
+#EXTINF:-1 tvg-id="FanDuelSportsNetwork.us@HD",FanDuel Sports
 https://fl1.moveonjoy.com/PAC_12/index.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetwork.us",Food Network
 http://fl41.moveonjoy.com/FOOD_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD",Fox Business Network (720p)
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD",Fox Business
 https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News
 https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.us",Fox Sports
@@ -119,13 +119,13 @@ https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2",FS2
 https://a1xs.vip/40000022
 
-#EXTINF:-1 tvg-id="FX.us@East",FX East
+#EXTINF:-1 tvg-id="FX.us@East",FX
 https://fl1.moveonjoy.com/FX/index.m3u8
 
 #EXTINF:-1 tvg-id="GolfChannel.us@SD",Golf Channel
 https://fl1.moveonjoy.com/GOLF/index.m3u8
 
-#EXTINF:-1 tvg-id="HallmarkChannel.us@East",Hallmark Channel East (720p)
+#EXTINF:-1 tvg-id="HallmarkChannel.us@East",Hallmark Channel
 https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.us",HBO
@@ -152,10 +152,10 @@ https://fl7.moveonjoy.com/HLN/index.m3u8
 #EXTINF:-1 tvg-id="HSN.us@East",HSN
 https://fl1.moveonjoy.com/HSN/index.m3u8
 
-#EXTINF:-1 tvg-id="Lifetime.us@East",Lifetime East
+#EXTINF:-1 tvg-id="Lifetime.us@East",Lifetime
 https://fl1.moveonjoy.com/LIFETIME/index.m3u8
 
-#EXTINF:-1 tvg-id="MGMPlus.us@East",MGM+ East
+#EXTINF:-1 tvg-id="MGMPlus.us@East",MGM+
 https://fl1.moveonjoy.com/EPIX/index.m3u8
 
 #EXTINF:-1 tvg-id="MGMPlusMarquee.us@SD",MGM+ Marquee
@@ -167,22 +167,22 @@ https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="MSNBC.us@East",MSNBC
 https://fl1.moveonjoy.com/MSNBC/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV.us@East",MTV (720p)
+#EXTINF:-1 tvg-id="MTV.us@East",MTV
 https://fl1.moveonjoy.com/MTV/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV2.us@East",MTV2 (720p)
+#EXTINF:-1 tvg-id="MTV2.us@East",MTV2
 https://fl1.moveonjoy.com/MTV_2/index.m3u8
 
-#EXTINF:-1 tvg-id="MTVClassic.us@East",MTV Classic (360p)
+#EXTINF:-1 tvg-id="MTVClassic.us@East",MTV Classic
 https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
 
-#EXTINF:-1 tvg-id="MTVLive.us@SD",MTV Live (720p)
+#EXTINF:-1 tvg-id="MTVLive.us@SD",MTV Live
 https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographic.us@East",National Geographic East
+#EXTINF:-1 tvg-id="NationalGeographic.us@East",National Geographic
 https://fl1.moveonjoy.com/National_Geographic/index.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographicWild.us@East",National Geographic Wild East
+#EXTINF:-1 tvg-id="NationalGeographicWild.us@East",National Geographic Wild
 https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV
@@ -191,22 +191,22 @@ https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us@SD",NFL Network
 https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="NHLNetwork.us@SD",NHL Network (720p)
+#EXTINF:-1 tvg-id="NHLNetwork.us@SD",NHL Network
 https://live-manifest.production-public.tubi.io/live/2cfb4368-6c7e-4075-bc1f-69f7141a8012/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon East
+#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon
 https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 
-#EXTINF:-1 tvg-id="NickJr.us@East",Nick Jr. East (720p)
+#EXTINF:-1 tvg-id="NickJr.us@East",Nick Jr.
 https://fl1.moveonjoy.com/NICK_JR/index.m3u8
 
 #EXTINF:-1 tvg-id="NickMusic.us@SD",Nick Music (720p)
 https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
 
-#EXTINF:-1 tvg-id="Nicktoons.us@East",Nicktoons East
+#EXTINF:-1 tvg-id="Nicktoons.us@East",Nicktoons
 https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 
-#EXTINF:-1 tvg-id="ParamountNetwork.us@East",Paramount Network East
+#EXTINF:-1 tvg-id="ParamountNetwork.us@East",Paramount
 https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Playboy.us",Playboy TV
@@ -215,37 +215,34 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="SECNetwork.us",SEC Network
 https://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="Showtime.us@East",Showtime East
+#EXTINF:-1 tvg-id="Showtime.us@East",Showtime
 https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
 
-#EXTINF:-1 tvg-id="Showtime.us@West",Showtime West (1080p)
+#EXTINF:-1 tvg-id="Showtime.us@West",Showtime West
 https://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 
-#EXTINF:-1 tvg-id="Showtime2.us@East",Showtime 2 East
+#EXTINF:-1 tvg-id="Showtime2.us@East",Showtime 2
 https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
 
-#EXTINF:-1 tvg-id="ShowtimeNext.us@East",Showtime Next East
+#EXTINF:-1 tvg-id="ShowtimeNext.us@East",Showtime Next
 https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 
-#EXTINF:-1 tvg-id="ShowtimeWomen.us@East",Showtime Women East
+#EXTINF:-1 tvg-id="ShowtimeWomen.us@East",Showtime Women
 https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
-#EXTINF:-1 tvg-id="Starz.us@East",Starz East
+#EXTINF:-1 tvg-id="Starz.us@East",Starz
 https://fl1.moveonjoy.com/STARZ/index.m3u8
 
-#EXTINF:-1 tvg-id="StarzEncoreClassic.us@East",Starz Encore Classic East
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us@East",Starz Encore Classic
 https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="Starz.us@West",Starz West
 https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
 
-#EXTINF:-1 tvg-id="StoriesbyAMC.us@EastHD",Stories by AMC (1080p)
-http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="SundanceTV.us@East",Sundance TV East
+#EXTINF:-1 tvg-id="SundanceTV.us@East",Sundance TV
 https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
 
-#EXTINF:-1 tvg-id="Syfy.us@East",Syfy East
+#EXTINF:-1 tvg-id="Syfy.us@East",Syfy
 https://fl1.moveonjoy.com/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="TennisChannel.us@SD",Tennis Channel
@@ -260,13 +257,13 @@ https://jmp2.uk/stvp-USBD70000213
 #EXTINF:-1 tvg-id="TNT.us",TNT
 https://fl1.moveonjoy.com/TNT/index.m3u8
 
-#EXTINF:-1 tvg-id="Travel.us",Travel Channel
+#EXTINF:-1 tvg-id="Travel.us",Travel
 http://fl1.moveonjoy.com/Travel_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="TruTV.us",TruTV
 https://fl1.moveonjoy.com/TRU_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN1.ca@SD",TSN1 (1080p)
+#EXTINF:-1 tvg-id="TSN1.ca@SD",TSN1
 https://fl1.moveonjoy.com/TSN/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN2.ca@SD",TSN2
@@ -281,11 +278,11 @@ https://fl1.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca@SD",TSN5
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
 
-#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network (720p)
+#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network
 http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="VH1.us@East",VH1 East
+#EXTINF:-1 tvg-id="VH1.us@East",VH1
 https://fl1.moveonjoy.com/VH1/index.m3u8
 
-#EXTINF:-1 tvg-id="VICETV.us@SD",VICE TV (720p)
+#EXTINF:-1 tvg-id="VICETV.us@SD",VICE TV
 https://fl1.moveonjoy.com/VICELAND/index.m3u8
