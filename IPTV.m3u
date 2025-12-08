@@ -31,6 +31,8 @@ https://fl1.moveonjoy.com/history_channel/index.m3u8
 https://fl1.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.us(m3u4u)" tvg-name="National Geographic Wild" tvg-logo="" group-title="Documentaries",National Geographic Wild
 https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="AandE.us(m3u4u)" tvg-name="A&E" tvg-logo="" group-title="Entertainment",A&E
+https://fl1.moveonjoy.com/ANE/index.m3u8
 #EXTINF:-1 tvg-id="AMC.us(m3u4u)" tvg-name="AMC" tvg-logo="" group-title="Entertainment",AMC
 https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="BET.us(m3u4u)" tvg-name="BET" tvg-logo="" group-title="Entertainment",BET

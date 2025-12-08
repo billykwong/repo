@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="m3u4u" generator-info-url="https://m3u4u.com/">
+<channel id="AandE.us(m3u4u)">
+<display-name>A&amp;E</display-name>
+</channel>
 <channel id="ABC7Chicago.us(m3u4u)">
 <display-name>ABC</display-name>
 </channel>
@@ -279,6 +282,698 @@
 <channel id="(no tvg-id)(m3u4u)">
 <display-name>m3u4u</display-name>
 </channel>
+<programme start="20251208000000 +0000" stop="20251208003000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">An unfiltered look at police departments in action; Police in Texas point guns at a car full of black men; a pig rescued in Florida; a serious car accident in South Carolina.</desc>
+</programme>
+<programme start="20251208003000 +0000" stop="20251208010000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">An unfiltered look at police departments in action.</desc>
+</programme>
+<programme start="20251208010000 +0000" stop="20251208013000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">An unfiltered look at police departments in action.</desc>
+</programme>
+<programme start="20251208013000 +0000" stop="20251208020000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">An unfiltered look at police departments in action.</desc>
+</programme>
+<programme start="20251208020000 +0000" stop="20251208023000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">A domestic fight in Illinois; a vehicle pursuit in Indiana; a gun bust in Oklahoma.</desc>
+</programme>
+<programme start="20251208023000 +0000" stop="20251208030100 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">An unfiltered look at police departments in action.</desc>
+</programme>
+<programme start="20251208030100 +0000" stop="20251208033200 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">An unfiltered look at police departments in action.</desc>
+</programme>
+<programme start="20251208033200 +0000" stop="20251208040400 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">An unfiltered look at police departments in action; El Paso cops harass black man; dispute with an AR in South Carolina; marijuana found in Florida.</desc>
+</programme>
+<programme start="20251208040400 +0000" stop="20251208043400 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">An unfiltered look at police departments in action.</desc>
+</programme>
+<programme start="20251208043400 +0000" stop="20251208050300 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">An unfiltered look at police departments in action.</desc>
+</programme>
+<programme start="20251208050300 +0000" stop="20251208053300 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">An unfiltered look at police departments in action.</desc>
+</programme>
+<programme start="20251208053300 +0000" stop="20251208060300 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">An unfiltered look at police departments in action.</desc>
+</programme>
+<programme start="20251208060300 +0000" stop="20251208063300 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">A domestic fight in Illinois; a vehicle pursuit in Indiana; a gun bust in Oklahoma.</desc>
+</programme>
+<programme start="20251208063300 +0000" stop="20251208070400 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">An unfiltered look at police departments in action.</desc>
+</programme>
+<programme start="20251208070400 +0000" stop="20251208073400 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">An unfiltered look at police departments in action.</desc>
+</programme>
+<programme start="20251208073400 +0000" stop="20251208080500 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">An unfiltered look at police departments in action; El Paso cops harass black man; dispute with an AR in South Carolina; marijuana found in Florida.</desc>
+</programme>
+<programme start="20251208080500 +0000" stop="20251208083400 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">An unfiltered look at police departments in action.</desc>
+</programme>
+<programme start="20251208083400 +0000" stop="20251208090200 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">An unfiltered look at police departments in action.</desc>
+</programme>
+<programme start="20251208090200 +0000" stop="20251208093200 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">DraftKings Sportsbook Report</title>
+<desc lang="en">DraftKings Sportsbook, a top-rated sportsbook app!</desc>
+</programme>
+<programme start="20251208093200 +0000" stop="20251208100200 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Overwhelmed with IRS Debt? Keys to Resolving Tax Debt</title>
+<desc lang="en">See how one company is changing people's lives by helping them put their tax problems to rest.</desc>
+</programme>
+<programme start="20251208100200 +0000" stop="20251208103200 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Inogen Portable Oxygen - No More Tanks!</title>
+<desc lang="en">Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
+</programme>
+<programme start="20251208103200 +0000" stop="20251208110000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Who Has Access to Your Personal Data?</title>
+<desc lang="en">Even if YOU do everything right to protect yourself, company and institutional data breaches are out of your control. Nearly 1 out of 4 US consumers have been a victim of identity theft. Find out how LifeLock can help protect your identity.</desc>
+</programme>
+<programme start="20251208110000 +0000" stop="20251208113000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Stories of Love by Shriners Children's™</title>
+<desc lang="en">Join Alec and Kaleb as they interview patients and their families and how their lives have been changed because of the life-changing pediatric care they received at Shriners Children's™.</desc>
+</programme>
+<programme start="20251208113000 +0000" stop="20251208120000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Joni Table Talk</title>
+<desc lang="en">Joni and guests tackle a wide range of relevant issues, controversial subjects and hard-hitting news topics with candor and wit.</desc>
+</programme>
+<programme start="20251208120000 +0000" stop="20251208123000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars Texas</title>
+<desc lang="en">Ricky and Bubba play up their country roots; Victor goes after a scooter potentially worth $3,000; a silver item takes storage gold.</desc>
+</programme>
+<programme start="20251208123000 +0000" stop="20251208130000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars Texas</title>
+<desc lang="en">In the city of DeSoto, Ricky and Bubba hope to obtain an antique mannequin; a mystery bidder sets his sights on a locker containing Willie Nelson memorabilia.</desc>
+</programme>
+<programme start="20251208130000 +0000" stop="20251208133000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars</title>
+<desc lang="en">The buyers converge at a storage center in Cerritos, Calif.; Jarrod and Dave eye a unit containing handcrafted bamboo fishing rods; Brandi uses her feminine wit to outsmart her male colleagues.</desc>
+</programme>
+<programme start="20251208133000 +0000" stop="20251208140000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars</title>
+<desc lang="en">The bidders revisit Lancaster, Calif.; Darrell battles Ivy on his turf; Barry buys some bowls; Jarrod and Brandi score DJ equipment.</desc>
+</programme>
+<programme start="20251208140000 +0000" stop="20251208143000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars</title>
+<desc lang="en">The bidders venture back to San Bernardino, Calif.; Barry arrives bearing gifts; Dave makes a tidy profit; Darrell and Brandon score big with an old item.</desc>
+</programme>
+<programme start="20251208143000 +0000" stop="20251208150000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars</title>
+<desc lang="en">Ivy pranks the competition; Rene and Casey space out; Jarrod and Brandi may have to close their Long Beach store if they can't score a major profit.</desc>
+</programme>
+<programme start="20251208150000 +0000" stop="20251208153000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars</title>
+<desc lang="en">The buyers descend on Compton, Calif.; Darrell and Brandon can't get their rappers or their lockers straight; Jarrod and Brandi find a unique suit; Dave Hester finds himself in a tight squeeze; Barry uncovers an antique GPS system.</desc>
+</programme>
+<programme start="20251208153000 +0000" stop="20251208160000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars</title>
+<desc lang="en">Jarrod and Brandi bring their children to an auction; Rene and Casey embrace the concept of teamwork; Ivy hopes to stock up on goods; "Gambler" Darrell puts his nickname to the test.</desc>
+</programme>
+<programme start="20251208160000 +0000" stop="20251208163000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">An unfiltered look at police departments in action.</desc>
+</programme>
+<programme start="20251208163000 +0000" stop="20251208170000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">An unfiltered look at police departments in action.</desc>
+</programme>
+<programme start="20251208170000 +0000" stop="20251208173000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">An unfiltered look at police departments in action; dog hoarder in Illinois; people are arrested for marijuana in South Carolina and in Arizona.</desc>
+</programme>
+<programme start="20251208173000 +0000" stop="20251208180000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">An unfiltered look at police departments in action.</desc>
+</programme>
+<programme start="20251208180000 +0000" stop="20251208183000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">An unfiltered look at police departments in action.</desc>
+</programme>
+<programme start="20251208183000 +0000" stop="20251208190000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">A bull on the loose in Texas, a car crash in Florida and a car chase in Oklahoma.</desc>
+</programme>
+<programme start="20251208190000 +0000" stop="20251208193000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">An intoxicated woman in Indiana, a drug bust in Florida; shots fired in South Carolina.</desc>
+</programme>
+<programme start="20251208193000 +0000" stop="20251208200000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">Shots fired in Arizona; a domestic disturbance in South Carolina; a man on drugs in Connecticut.</desc>
+</programme>
+<programme start="20251208200000 +0000" stop="20251208203000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">A vehicle flees in Ind.; a motorcycle chase in Wash.; a drunk driver in Ind.</desc>
+</programme>
+<programme start="20251208203000 +0000" stop="20251208210000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">An unfiltered look at police departments in action.</desc>
+</programme>
+<programme start="20251208210000 +0000" stop="20251208213000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">An unfiltered look at police departments in action; a foot chase in Florida; a drug bust in Utah; resisting arrest in Oklahoma.</desc>
+</programme>
+<programme start="20251208213000 +0000" stop="20251208220000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Police Patrol</title>
+<desc lang="en">Gun and drug bust in Arizona; public intoxication in Indiana; a domestic disturbance in Illinois.</desc>
+</programme>
+<programme start="20251208220000 +0000" stop="20251208230000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Greatest Shifts</title>
+<desc lang="en">In Bradford County, police respond to an alcohol-fueled knife fight; in Tallahassee, a drunken clash erupts over stolen chicken tenders; in Pomona, police breach a suspected illegal gambling site.</desc>
+</programme>
+<programme start="20251208230000 +0000" stop="20251209000000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Greatest Shifts</title>
+<desc lang="en">A suspected drug overdose in Lawrence has officers scrambling; gunfire and alleged gang members in Pomona; in Richland, officers chase down a runner wanted for armed robbery.</desc>
+</programme>
+<programme start="20251209000000 +0000" stop="20251209010000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Greatest Shifts</title>
+<desc lang="en">In Montana, officers track footprints in the snow to locate a suspected drunk driver. In Florida, a man attempts to prove his identity with a VIP card. And in Pomona, officers open a suitcase to discover someone suspected of carrying a firearm.</desc>
+</programme>
+<programme start="20251209010000 +0000" stop="20251209020000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Greatest Shifts</title>
+<desc lang="en">In Lawrence, police find a parked car with steamed-up windows; in Berkeley, they race to a report of shots fired; in Nye County, police investigate a possible stolen vehicle.</desc>
+</programme>
+<programme start="20251209020000 +0000" stop="20251209030100 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Greatest Shifts</title>
+<desc lang="en">In Tallahassee, Fla., officers search for a wanted suspect, followed by a traffic stop in Berkeley where drugs are discovered; police respond to a fire in Bradford County and in Tulsa, Okla., a man attempts to elude officers by fleeing the scene.</desc>
+</programme>
+<programme start="20251209030100 +0000" stop="20251209040400 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Greatest Shifts</title>
+<desc lang="en">The K9 unit searches for someone accused of assault in Richland, while officers in Jefferson County pursue a suspected stolen vehicle. In East Providence, shoplifters are caught with the goods, and in Missoula, a suspected stolen car on a road to nowhere.</desc>
+</programme>
+<programme start="20251209040400 +0000" stop="20251209050300 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Greatest Shifts</title>
+<desc lang="en">Officers respond to a frantic scene of shots fired in Terre Haute; in Tulsa officers team up in pursuit of a suspected stolen vehicle; in Tallahassee, officers spend a busy night assisting stranded motorists.</desc>
+</programme>
+<programme start="20251209050300 +0000" stop="20251209060300 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Greatest Shifts</title>
+<desc lang="en">In Lawrence, police find a parked car with steamed-up windows; in Berkeley, they race to a report of shots fired; in Nye County, police investigate a possible stolen vehicle.</desc>
+</programme>
+<programme start="20251209060300 +0000" stop="20251209070400 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Greatest Shifts</title>
+<desc lang="en">In Tallahassee, Fla., officers search for a wanted suspect, followed by a traffic stop in Berkeley where drugs are discovered; police respond to a fire in Bradford County and in Tulsa, Okla., a man attempts to elude officers by fleeing the scene.</desc>
+</programme>
+<programme start="20251209070400 +0000" stop="20251209080500 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Greatest Shifts</title>
+<desc lang="en">The K9 unit searches for someone accused of assault in Richland, while officers in Jefferson County pursue a suspected stolen vehicle. In East Providence, shoplifters are caught with the goods, and in Missoula, a suspected stolen car on a road to nowhere.</desc>
+</programme>
+<programme start="20251209080500 +0000" stop="20251209090200 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Live PD: Greatest Shifts</title>
+<desc lang="en">Officers respond to a frantic scene of shots fired in Terre Haute; in Tulsa officers team up in pursuit of a suspected stolen vehicle; in Tallahassee, officers spend a busy night assisting stranded motorists.</desc>
+</programme>
+<programme start="20251209090200 +0000" stop="20251209093200 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Accident Compensation: Get Help Now!</title>
+<desc lang="en">Helping injured individuals get the compensation they are owed.</desc>
+</programme>
+<programme start="20251209093200 +0000" stop="20251209100200 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Overwhelmed with IRS Debt? Keys to Resolving Tax Debt</title>
+<desc lang="en">See how one company is changing people's lives by helping them put their tax problems to rest.</desc>
+</programme>
+<programme start="20251209100200 +0000" stop="20251209103100 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">EZ WELL Massage System - Relax, Restore, Rejuvenate -Full-Body Relief!</title>
+<desc lang="en">Experience the Remedy Massage System! Feel weightless and remove pressure points with zero gravity memory foam while vibration, infrared heat, and deep tissue massage work to soothe aches, boost circulation, and relax your body. Unwind &amp; recharge!</desc>
+</programme>
+<programme start="20251209103100 +0000" stop="20251209110000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Who Has Access to Your Personal Data?</title>
+<desc lang="en">Even if YOU do everything right to protect yourself, company and institutional data breaches are out of your control. Nearly 1 out of 4 US consumers have been a victim of identity theft. Find out how LifeLock can help protect your identity.</desc>
+</programme>
+<programme start="20251209110000 +0000" stop="20251209113000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Paid Programming</title>
+<desc lang="en">Paid programming.</desc>
+</programme>
+<programme start="20251209113000 +0000" stop="20251209120000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Joni Table Talk</title>
+<desc lang="en">Joni and guests tackle a wide range of relevant issues, controversial subjects and hard-hitting news topics with candor and wit.</desc>
+</programme>
+<programme start="20251209120000 +0000" stop="20251209123000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars Texas</title>
+<desc lang="en">The buyers brawl in the city of Henderson; Vic and Sonny receive a shot in the arm; Jenny arrives on four wheels.</desc>
+</programme>
+<programme start="20251209123000 +0000" stop="20251209130000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars Texas</title>
+<desc lang="en">Moe's protegee, Mary Padian, gives new buyer Jenny Grumbles a run for her money; Ricky learns a lesson in human anatomy; Bubba seeks a buyer for his explicit art.</desc>
+</programme>
+<programme start="20251209130000 +0000" stop="20251209133000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars</title>
+<desc lang="en">Six lockers owned by one tenant go up for auction, spurring wild rumors and excitement; Barry finds a vintage magazine; Jarrod asks Dave for an appraisal.</desc>
+</programme>
+<programme start="20251209133000 +0000" stop="20251209140000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars</title>
+<desc lang="en">Darrell hopes to score another major find as the bidders converge in Stanton, Calif.; Mark's custom-made man purse is filled with cash; Nabila's locker is fit for a dummy.</desc>
+</programme>
+<programme start="20251209140000 +0000" stop="20251209143000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars</title>
+<desc lang="en">Jarrod and Brandi have fun as they try to dunk the competition; Casey tries her hand at bidding; Ivy turns his store into an auction house.</desc>
+</programme>
+<programme start="20251209143000 +0000" stop="20251209150000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars</title>
+<desc lang="en">Ivy races against time to win a locker and get home; Rene outspends the competition, but Darrell and Brandon manage to come out ahead.</desc>
+</programme>
+<programme start="20251209150000 +0000" stop="20251209153000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars</title>
+<desc lang="en">Rene and Casey return to the auctions; Dave finds a piece of board game history; Jarrod and Brandi try to get a locker; Darrell and Brandon show their moves.</desc>
+</programme>
+<programme start="20251209153000 +0000" stop="20251209160000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars</title>
+<desc lang="en">In Placentia, Calif., Jarrod and Brandi make a purchase that tips the scales in their favor; Rene and Casey buy a load of luggage; Darrell scores what he thinks is dental equipment.</desc>
+</programme>
+<programme start="20251209160000 +0000" stop="20251209163000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">A traffic stop in Florida goes off the rails when a CEO loses his cool with an officer; a woman exits her car with a big dog during a confrontation with another driver; a Nebraska motorist falls unconscious while cruising on the interstate.</desc>
+</programme>
+<programme start="20251209163000 +0000" stop="20251209170000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">In Wooster, Ohio, a road rage incident escalates when one of the drivers follows the other back to his home; a driver in Georgia hits a stopped tow truck's ramp and soars over 120 feet; a fender bender in a Texas parking lot spins out of control.</desc>
+</programme>
+<programme start="20251209170000 +0000" stop="20251209173000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">Drinks are thrown, fists fly and a car is rammed during an argument at a Houston intersection; a lane change miscalculation turns into a nightmare when a semi truck rolls over on a highway; two drivers settle their differences in a refreshing way.</desc>
+</programme>
+<programme start="20251209173000 +0000" stop="20251209180000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">In Torrance, Calif., an alleged fender bender leads to a roadside fight, leaving one driver unconscious; in Baltimore, a reported stolen vehicle fleeing from police crashes into a building causing it to collapse.</desc>
+</programme>
+<programme start="20251209180000 +0000" stop="20251209183000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">In Sacramento, Calif., two motorists attempt to out-threaten each other over an alleged tailgating incident; in Las Vegas, a driver upset at being allegedly cut off confronts another motorist at a stoplight.</desc>
+</programme>
+<programme start="20251209183000 +0000" stop="20251209190000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">In Nebraska, an SUV runs into a sanitation worker whose truck blocks its way; a driver in Las Vegas falls out of his vehicle while doing donuts in a parking lot; in Los Angeles, a stolen utility vehicle goes on a wild rampage.</desc>
+</programme>
+<programme start="20251209190000 +0000" stop="20251209193000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">At a red light in Arizona, a car sideswipes the door on another driver's vehicle during a heated road rage encounter; two drivers get into a yelling match as they attempt to squeeze by each other on a narrow street in the Boston suburbs.</desc>
+</programme>
+<programme start="20251209193000 +0000" stop="20251209200000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">A rideshare driver in Virginia is pursued by another driver, who claims he cut him off; a female driver in Ohio confronts the male passenger of another vehicle and pays a heavy price; a cement mixer in South Carolina veers across a highway median.</desc>
+</programme>
+<programme start="20251209200000 +0000" stop="20251209203000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">In Castle Rock, Colo., a school bus driver finds himself in hot water when he comes to a sudden stop and frightens some of his passengers; in Florida, after pulling a driver over for speeding, a sheriff experiences a shocking first in his career.</desc>
+</programme>
+<programme start="20251209203000 +0000" stop="20251209210000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">A driver comes to a sudden stop, causing a disastrous situation for a motorcyclist coming from behind; a parking spot dispute leads to a man driving his car into a bakery; rescue crews help a woman whose car is partially submerged in an icy pond.</desc>
+</programme>
+<programme start="20251209210000 +0000" stop="20251209213000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">A disagreement over driving rules in a Washington State parking lot ends with multiple gunshots; a confrontational driver pushes two friends to the brink.</desc>
+</programme>
+<programme start="20251209213000 +0000" stop="20251209220000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">A taxi driver is held at gunpoint in Pennsylvania; a raging driver threatens others with an ax in Texas.</desc>
+</programme>
+<programme start="20251209220000 +0000" stop="20251209223000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">A mother in New Mexico clings to the hood of her own car as a thief takes off with it with her children inside; a Texas man pursues a driver after a collision in an intersection; a late-night driver in Washington loses control and rams into parked cars; a motorcyclist in Brazil has a run-in with a bus making a wide turn; in Mississippi, a trucker tries to rescue a family trapped in a fiery crash.</desc>
+</programme>
+<programme start="20251209223000 +0000" stop="20251209230000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">Two men attempt a carjacking at a car wash; a hapless teenage driver turns a parking lot into a demolition derby and more.</desc>
+</programme>
+<programme start="20251209230000 +0000" stop="20251209233000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">The driver of a dump truck faces off with a man who takes offense to the truck's exhaust.</desc>
+</programme>
+<programme start="20251209233000 +0000" stop="20251210000000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">A traffic stop in Oklahoma turns disastrous for a driver who flees after refusing to accept a ticket; brawl outside a nightclub in England becomes life-threatening when a car enters the fray; trailer causes an unexpected collision on a highway.</desc>
+</programme>
+<programme start="20251210000000 +0000" stop="20251210003000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">A car in Texas rams a motorcycle trying to pass on a double yellow line; a driver in Australia is nearly dragged out of his car window allegedly over a parking spot; a fleet of self-driving cars in Austin causes a major traffic jam.</desc>
+</programme>
+<programme start="20251210003000 +0000" stop="20251210010000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">A motorcyclist in Colorado keeps his cool during a heated argument until the other driver touches his bike; a valet's joyride in Miami goes up in smoke; an erratic driver crashes; a mother and her toddler are knocked off a motorbike.</desc>
+</programme>
+<programme start="20251210010000 +0000" stop="20251210013000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">A skateboarder blasting down a steep hill in San Francisco collides with a car; a clash between a driver and pedestrians in Fort Lauderdale becomes a raging pursuit down a busy street; an excavator operator in Virginia has major trouble loading.</desc>
+</programme>
+<programme start="20251210013000 +0000" stop="20251210020000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">A property manager in California is hit by a car after an altercation with its driver; in Oklahoma, a semi hauling cars gets stuck at a crossing with a train fast approaching; a routine call for two ambulance workers in Chicago is interrupted.</desc>
+</programme>
+<programme start="20251210020000 +0000" stop="20251210023000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">A driver in Seattle follows a woman after an incident on the road, resulting in an emotional confrontation; a sobriety checkpoint in New Mexico takes an unexpected turn; a tanker accident on a highway in China turns explosive.</desc>
+</programme>
+<programme start="20251210023000 +0000" stop="20251210030100 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">Drivers in Harlem hurl insults during an intense standoff over a parking spot. In England, bystanders intervene when two boys appear to take a motorbike that doesn't belong to them. On a Minnesota highway, a wrong-way driver leaves a ten-mile path of destruction. Drivers in Thailand face the wrath of a road raging beast.</desc>
+</programme>
+<programme start="20251210030100 +0000" stop="20251210033200 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Customer Wars</title>
+<desc lang="en">In San Antonio, a couple clashes with a grumpy gate agent after they are denied boarding; in Interlaken, Switzerland, a hang glider's first flight turns into a nightmare when he realizes his harness isn't attached.</desc>
+</programme>
+<programme start="20251210033200 +0000" stop="20251210040400 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Customer Wars</title>
+<desc lang="en">At a coffee shop in New York City, a conflict over a customer's conduct escalates into a chaotic fight with an employee. Late at night in Warner Robins, Georgia, a massive group brawl erupts after one patron allegedly takes issue with his fast-food meal. Inside a hotel restaurant in Georgetown, Texas, police officers intervene when a woman encounters difficulties paying her bill. In Turkey, an ordinary errand to fill up a tank of gas takes a horrifying, fiery turn.</desc>
+</programme>
+<programme start="20251210040400 +0000" stop="20251210043400 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Customer Wars</title>
+<desc lang="en">At a California resort, a man's alleged remarks lead to a violent altercation with other vacationers; at a Dallas Airport, officers are called in after a passenger is denied boarding; in Houston, a delivery driver is stunned by a customer's tip.</desc>
+</programme>
+<programme start="20251210043400 +0000" stop="20251210050300 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Customer Wars</title>
+<desc lang="en">On a runway in Los Angeles, California; travelers get annoyed at a passenger; a father-daughter duo engage in a heated argument with another fan over proper sports etiquette; a high-end haircut gone wrong.</desc>
+</programme>
+<programme start="20251210050300 +0000" stop="20251210053300 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">A skateboarder blasting down a steep hill in San Francisco collides with a car; a clash between a driver and pedestrians in Fort Lauderdale becomes a raging pursuit down a busy street; an excavator operator in Virginia has major trouble loading.</desc>
+</programme>
+<programme start="20251210053300 +0000" stop="20251210060300 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">A property manager in California is hit by a car after an altercation with its driver; in Oklahoma, a semi hauling cars gets stuck at a crossing with a train fast approaching; a routine call for two ambulance workers in Chicago is interrupted.</desc>
+</programme>
+<programme start="20251210060300 +0000" stop="20251210063300 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">A driver in Seattle follows a woman after an incident on the road, resulting in an emotional confrontation; a sobriety checkpoint in New Mexico takes an unexpected turn; a tanker accident on a highway in China turns explosive.</desc>
+</programme>
+<programme start="20251210063300 +0000" stop="20251210070400 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Road Wars</title>
+<desc lang="en">Drivers in Harlem hurl insults during an intense standoff over a parking spot. In England, bystanders intervene when two boys appear to take a motorbike that doesn't belong to them. On a Minnesota highway, a wrong-way driver leaves a ten-mile path of destruction. Drivers in Thailand face the wrath of a road raging beast.</desc>
+</programme>
+<programme start="20251210070400 +0000" stop="20251210073400 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Customer Wars</title>
+<desc lang="en">In San Antonio, a couple clashes with a grumpy gate agent after they are denied boarding; in Interlaken, Switzerland, a hang glider's first flight turns into a nightmare when he realizes his harness isn't attached.</desc>
+</programme>
+<programme start="20251210073400 +0000" stop="20251210080500 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Customer Wars</title>
+<desc lang="en">At a coffee shop in New York City, a conflict over a customer's conduct escalates into a chaotic fight with an employee. Late at night in Warner Robins, Georgia, a massive group brawl erupts after one patron allegedly takes issue with his fast-food meal. Inside a hotel restaurant in Georgetown, Texas, police officers intervene when a woman encounters difficulties paying her bill. In Turkey, an ordinary errand to fill up a tank of gas takes a horrifying, fiery turn.</desc>
+</programme>
+<programme start="20251210080500 +0000" stop="20251210083400 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Customer Wars</title>
+<desc lang="en">At a California resort, a man's alleged remarks lead to a violent altercation with other vacationers; at a Dallas Airport, officers are called in after a passenger is denied boarding; in Houston, a delivery driver is stunned by a customer's tip.</desc>
+</programme>
+<programme start="20251210083400 +0000" stop="20251210090200 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Customer Wars</title>
+<desc lang="en">On a runway in Los Angeles, California; travelers get annoyed at a passenger; a father-daughter duo engage in a heated argument with another fan over proper sports etiquette; a high-end haircut gone wrong.</desc>
+</programme>
+<programme start="20251210090200 +0000" stop="20251210093200 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Accident Compensation: Get Help Now!</title>
+<desc lang="en">Helping injured individuals get the compensation they are owed.</desc>
+</programme>
+<programme start="20251210093200 +0000" stop="20251210100200 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Inogen Portable Oxygen - No More Tanks!</title>
+<desc lang="en">Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
+</programme>
+<programme start="20251210100200 +0000" stop="20251210103100 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
+<desc lang="en">Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
+</programme>
+<programme start="20251210103100 +0000" stop="20251210110100 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Inogen Portable Oxygen - No More Tanks!</title>
+<desc lang="en">Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
+</programme>
+<programme start="20251210110100 +0000" stop="20251210113000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Who Has Access to Your Personal Data?</title>
+<desc lang="en">Even if YOU do everything right to protect yourself, company and institutional data breaches are out of your control. Nearly 1 out of 4 US consumers have been a victim of identity theft. Find out how LifeLock can help protect your identity.</desc>
+</programme>
+<programme start="20251210113000 +0000" stop="20251210120000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Joni Table Talk</title>
+<desc lang="en">Joni and guests tackle a wide range of relevant issues, controversial subjects and hard-hitting news topics with candor and wit.</desc>
+</programme>
+<programme start="20251210120000 +0000" stop="20251210123000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars Texas</title>
+<desc lang="en">Ricky and Bubba's nemesis resurfaces in the city of Mesquite; Jenny and Mary uncover a Cold War relic; a struggling Victor searches for bargains.</desc>
+</programme>
+<programme start="20251210123000 +0000" stop="20251210130000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars Texas</title>
+<desc lang="en">The bidders journey to the Dallas suburb of Waxahachie; Ricky and Bubba score some green; Mary's scandalous find could earn her a huge profit; Marry gets a buzz from a hand-powered machine.</desc>
+</programme>
+<programme start="20251210130000 +0000" stop="20251210133000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars</title>
+<desc lang="en">Rene and Casey plan to spare no expense in order to fill up their truck; Jarrod and Brandi's Long Beach store becomes the subject of gossip; Ivy's latest score could affect his career.</desc>
+</programme>
+<programme start="20251210133000 +0000" stop="20251210140000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars</title>
+<desc lang="en">Brandi and Jarrod argue over a horse head; a locker is littered with antique furniture; Dave makes another strange discovery.</desc>
+</programme>
+<programme start="20251210140000 +0000" stop="20251210143000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars</title>
+<desc lang="en">The buyers visit Stanton, Calif.; Darrell is banned from an auction; Ivy Calvin lands a cool machine; Jarrod and Brandi flip for a dancer; Barry goes under cover.</desc>
+</programme>
+<programme start="20251210143000 +0000" stop="20251210150000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars</title>
+<desc lang="en">Dan and Laura face a life-or-death crisis as the buyers assemble in Hemet, Calif.; Brandi tries to keep Jarrod focused on business; Mary finds an out-of-this-world item.</desc>
+</programme>
+<programme start="20251210150000 +0000" stop="20251210153000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars</title>
+<desc lang="en">The bidders look for bargains in Inglewood, Calif.; a confident Barry rides in on his motorcycle; Jarrod and Brandi hope to trick the new buyers; Ivy spends big for a unit.</desc>
+</programme>
+<programme start="20251210153000 +0000" stop="20251210160000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars</title>
+<desc lang="en">The buyers invade Rene's home turf of Oceanside, Calif.; Darrell and Brandon fight for a locker containing a piece of cinematic history; friendship is both magic and profitable for Jarrod and Brandi.</desc>
+</programme>
+<programme start="20251210160000 +0000" stop="20251210163000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Court Cam</title>
+<desc lang="en">A grieving uncle screams at his sister-in-law in court over his missing nephew; an autoworker checks in to his virtual hearing from the assembly line; a road rage killer blames his victim.</desc>
+</programme>
+<programme start="20251210163000 +0000" stop="20251210170000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Court Cam</title>
+<desc lang="en">A judge gets temporarily suspended after making a teenager wear handcuffs and prison garb after falling asleep in court; a man arrested for stalking hurls insults at the prosecutor.</desc>
+</programme>
+<programme start="20251210170000 +0000" stop="20251210173000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Court Cam</title>
+<desc lang="en">A woman charged with arson starts singing a country song during her bond hearing; the judge becomes annoyed after a defendant complains about his sentence; a woman who pleaded guilty to murder shocks the courtroom by changing her mind.</desc>
+</programme>
+<programme start="20251210173000 +0000" stop="20251210180000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Court Cam</title>
+<desc lang="en">A man charged with murder attempts a bold escape; an attorney is attacked by his own client; a man blames his pet for cursing at a judge.</desc>
+</programme>
+<programme start="20251210180000 +0000" stop="20251210183000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Court Cam</title>
+<desc lang="en">A grieving father is removed from the courtroom for cursing at his daughter's killer; a man accused of violating his parole by drinking alcohol claims he absorbed it from aftershave; a defendant breaks down crying when the judge denies her bond.</desc>
+</programme>
+<programme start="20251210183000 +0000" stop="20251210190000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Court Cam</title>
+<desc lang="en">The judge gives a 79-year-old woman a final warning: stop feeding feral cats or go to jail; a local attorney makes a scene outside the courthouse; a defendant angers the judge by appearing for virtual court wearing facial cream.</desc>
+</programme>
+<programme start="20251210190000 +0000" stop="20251210193000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Court Cam</title>
+<desc lang="en">A man convicted of assault taunts the judge and drops an F-bomb while being sentenced; a defendant breaks down crying while pleading his case in court; a man raises the judge's ire by repeatedly asking for an interpreter he admits he doesn't need.</desc>
+</programme>
+<programme start="20251210193000 +0000" stop="20251210200000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Court Cam</title>
+<desc lang="en">A grieving father asks the judge for leniency for his son who's been convicted of murdering his other son; a senior citizen spends the night in jail after continually interrupting the judge; a grieving man is removed from the courtroom.</desc>
+</programme>
+<programme start="20251210200000 +0000" stop="20251210203000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Court Cam</title>
+<desc lang="en">A convicted murderer has a violent reaction as courtroom deputies take him into custody; a judge refuses to give in to the pleas for mercy from a repeat drug offender; a woman found guilty of probation violation escapes the courtroom.</desc>
+</programme>
+<programme start="20251210203000 +0000" stop="20251210210000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Court Cam</title>
+<desc lang="en">A grieving son shoots his father's accused murderer in the courtroom; a defendant takes out her frustrations on a jailhouse computer; a woman goes to jail for trying to lie her way out of jury duty.</desc>
+</programme>
+<programme start="20251210210000 +0000" stop="20251210213000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Court Cam</title>
+<desc lang="en">A man accused of murder tries to attend his arraignment naked; a woman accused of assaulting her mother hangs up on her virtual hearing; a man seeking a protection order against his wife gives a judge the finger in court.</desc>
+</programme>
+<programme start="20251210213000 +0000" stop="20251210220000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Court Cam</title>
+<desc lang="en">A man convicted of murdering his five-year-old son makes a scene in the courtroom; a convicted killer won't stay in his seat during his virtual sentencing; a man in court for allegedly violating his parole is held without bond.</desc>
+</programme>
+<programme start="20251210220000 +0000" stop="20251210223000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Fugitives Caught on Tape</title>
+<desc lang="en">State Troopers become engaged in a gunfight with a suspected drug dealer; a K-9 officer runs down an alleged car thief who's fled on foot; police pursue a road rage suspect who's driving recklessly on wet, snow-filled streets; and more.</desc>
+</programme>
+<programme start="20251210223000 +0000" stop="20251210230000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Fugitives Caught on Tape</title>
+<desc lang="en">Police exchange gunfire in the streets of Tampa with a man wanted for stabbing his wife; a State Trooper performs a PIT Maneuver on a fleeing hit-and-run suspect; police get in a chase with two men wanted for armed carjacking.</desc>
+</programme>
+<programme start="20251210230000 +0000" stop="20251210233000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Fugitives Caught on Tape</title>
+<desc lang="en">Law enforcement officers pursue fugitives on the run; a woman accused of shoplifting rams a police cruiser and leads officers on a dangerous high speed chase.</desc>
+</programme>
+<programme start="20251210233000 +0000" stop="20251211000000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Fugitives Caught on Tape</title>
+<desc lang="en">State Troopers chase a drunk driver in an R-V as she causes multiple accidents while driving recklessly through busy city streets; a kidnapping and murder suspect fires at officers from inside his car; a wrong-way driver fleeing from State Troopers.</desc>
+</programme>
+<programme start="20251211000000 +0000" stop="20251211003000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Fugitives Caught on Tape</title>
+<desc lang="en">Engaging in a deadly gun battle at the end of a high-speed pursuit; tracking down a car thief who's attempting a water escape in a stolen kayak; outwitting a fugitive driving recklessly on a motorcycle.</desc>
+</programme>
+<programme start="20251211003000 +0000" stop="20251211010000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Fugitives Caught on Tape</title>
+<desc lang="en">Law enforcement officers pursue fugitives on the run; 911 operators receive a call in the middle of a road rage incident; state troopers pursue a man wanted for domestic assault and fleeing with his 6-year-old son in the car.</desc>
+</programme>
+<programme start="20251211010000 +0000" stop="20251211013000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Fugitives Caught on Tape</title>
+<desc lang="en">Law enforcement officers pursue fugitives on the run; an ex-con suspected of drunk driving flees a traffic stop and then tells a 911 operator that he'll shoot at officers if they stop him again; a woman rams into police cruisers.</desc>
+</programme>
+<programme start="20251211013000 +0000" stop="20251211020000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Fugitives Caught on Tape</title>
+<desc lang="en">A man out on bond leads police on a high-speed chase down the wrong side of the highway; officers try to engage with a shoplifting suspect during a highway standoff; a convicted child sex abuser steals a Homeland Security vehicle.</desc>
+</programme>
+<programme start="20251211020000 +0000" stop="20251211023000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Fugitives Caught on Tape</title>
+<desc lang="en">Law enforcement officers pursue fugitives on the run; police pursue a man driving his truck recklessly while towing a double-wide mobile home; a woman steals an officer's cruiser and rear-ends an SUV; officers engage in a bicycle pursuit.</desc>
+</programme>
+<programme start="20251211023000 +0000" stop="20251211030100 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Fugitives Caught on Tape</title>
+<desc lang="en">Law enforcement officers pursue fugitives on the run; troopers chase a suspect off-road, through wrong-way highway traffic and across busy city streets, as dangerous debris falls from the back of his stolen truck.</desc>
+</programme>
+<programme start="20251211030100 +0000" stop="20251211033200 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Fugitives Caught on Tape</title>
+<desc lang="en">Law enforcement officers pursue fugitives on the run. Troopers engage in the high-speed chase of a wrong-way driver on a motorcycle; Local P-D and a K-9 officer track down a man reportedly in possession of a home-made bomb, Deputies in the multi-state pursuit of an ex-con warn Canadian authorities that their fugitive appears to be heading for the border; and more.</desc>
+</programme>
+<programme start="20251211033200 +0000" stop="20251211040400 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Fugitives Caught on Tape</title>
+<desc lang="en">A man wanted for assault pulls a gun on a police officer and then steals his cruiser; a high-speed chase comes to an end when the suspect's car bursts into flames; a wanted man fleeing from officers in a semi-truck appears to be heading for the Canadian border; and more.</desc>
+</programme>
+<programme start="20251211040400 +0000" stop="20251211043400 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Fugitives Caught on Tape</title>
+<desc lang="en">Law enforcement officers pursue fugitives on the run; a man fleeing from state troopers jumps off Florida's 7-Mile Bridge into the ocean below; a wanted man smashes into multiple cars while trying to flee from police at a gas station.</desc>
+</programme>
+<programme start="20251211043400 +0000" stop="20251211050300 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Fugitives Caught on Tape</title>
+<desc lang="en">Law enforcement officers pursue fugitives on the run; a drunk driver flashes her middle finger while fleeing from troopers; a local police chief rolls his cruiser into a ditch after executing a PIT Maneuver.</desc>
+</programme>
+<programme start="20251211050300 +0000" stop="20251211053300 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Fugitives Caught on Tape</title>
+<desc lang="en">Law enforcement officers pursue fugitives on the run; an ex-con suspected of drunk driving flees a traffic stop and then tells a 911 operator that he'll shoot at officers if they stop him again; a woman rams into police cruisers.</desc>
+</programme>
+<programme start="20251211053300 +0000" stop="20251211060300 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Fugitives Caught on Tape</title>
+<desc lang="en">A man out on bond leads police on a high-speed chase down the wrong side of the highway; officers try to engage with a shoplifting suspect during a highway standoff; a convicted child sex abuser steals a Homeland Security vehicle.</desc>
+</programme>
+<programme start="20251211060300 +0000" stop="20251211063300 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Fugitives Caught on Tape</title>
+<desc lang="en">Law enforcement officers pursue fugitives on the run; police pursue a man driving his truck recklessly while towing a double-wide mobile home; a woman steals an officer's cruiser and rear-ends an SUV; officers engage in a bicycle pursuit.</desc>
+</programme>
+<programme start="20251211063300 +0000" stop="20251211070400 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Fugitives Caught on Tape</title>
+<desc lang="en">Law enforcement officers pursue fugitives on the run; troopers chase a suspect off-road, through wrong-way highway traffic and across busy city streets, as dangerous debris falls from the back of his stolen truck.</desc>
+</programme>
+<programme start="20251211070400 +0000" stop="20251211073400 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Fugitives Caught on Tape</title>
+<desc lang="en">Law enforcement officers pursue fugitives on the run. Troopers engage in the high-speed chase of a wrong-way driver on a motorcycle; Local P-D and a K-9 officer track down a man reportedly in possession of a home-made bomb, Deputies in the multi-state pursuit of an ex-con warn Canadian authorities that their fugitive appears to be heading for the border; and more.</desc>
+</programme>
+<programme start="20251211073400 +0000" stop="20251211080500 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Fugitives Caught on Tape</title>
+<desc lang="en">A man wanted for assault pulls a gun on a police officer and then steals his cruiser; a high-speed chase comes to an end when the suspect's car bursts into flames; a wanted man fleeing from officers in a semi-truck appears to be heading for the Canadian border; and more.</desc>
+</programme>
+<programme start="20251211080500 +0000" stop="20251211083400 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Fugitives Caught on Tape</title>
+<desc lang="en">Law enforcement officers pursue fugitives on the run; a man fleeing from state troopers jumps off Florida's 7-Mile Bridge into the ocean below; a wanted man smashes into multiple cars while trying to flee from police at a gas station.</desc>
+</programme>
+<programme start="20251211083400 +0000" stop="20251211090200 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Fugitives Caught on Tape</title>
+<desc lang="en">Law enforcement officers pursue fugitives on the run; a drunk driver flashes her middle finger while fleeing from troopers; a local police chief rolls his cruiser into a ditch after executing a PIT Maneuver.</desc>
+</programme>
+<programme start="20251211090200 +0000" stop="20251211093200 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">NECTAR TRI-PILLOW -Cooler, Comfy, Better Sleep! Buy One Get One FREE!</title>
+<desc lang="en">Discover the Nectar Tri-Comfort Cooling Pillow for the ultimate sleep experience! Adjustable to three firmness levels to provide customized support and cooling all night long. Order NOW to get a second pillow FREE, plus a 30-night home trial!</desc>
+</programme>
+<programme start="20251211093200 +0000" stop="20251211100200 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Accident Compensation: Get Help Now!</title>
+<desc lang="en">Helping injured individuals get the compensation they are owed.</desc>
+</programme>
+<programme start="20251211100200 +0000" stop="20251211103100 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Overwhelmed with IRS Debt? Keys to Resolving Tax Debt</title>
+<desc lang="en">See how one company is changing people's lives by helping them put their tax problems to rest.</desc>
+</programme>
+<programme start="20251211103100 +0000" stop="20251211110000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Inogen Portable Oxygen - No More Tanks!</title>
+<desc lang="en">Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
+</programme>
+<programme start="20251211110000 +0000" stop="20251211113000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Who Has Access to Your Personal Data?</title>
+<desc lang="en">Even if YOU do everything right to protect yourself, company and institutional data breaches are out of your control. Nearly 1 out of 4 US consumers have been a victim of identity theft. Find out how LifeLock can help protect your identity.</desc>
+</programme>
+<programme start="20251211113000 +0000" stop="20251211120000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Joni Table Talk</title>
+<desc lang="en">Joni and guests tackle a wide range of relevant issues, controversial subjects and hard-hitting news topics with candor and wit.</desc>
+</programme>
+<programme start="20251211120000 +0000" stop="20251211123000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars Texas</title>
+<desc lang="en">The buyers return to Mesquite; Jenny battles a work-related injury; Moe and Mary's finds get them jumping and dancing.</desc>
+</programme>
+<programme start="20251211123000 +0000" stop="20251211130000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars Texas</title>
+<desc lang="en">The buyers look for bargains in the Lake Highlands region of Dallas; Victor turns Bubba against Ricky; Mary bids against her former mentor.</desc>
+</programme>
+<programme start="20251211130000 +0000" stop="20251211133000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars</title>
+<desc lang="en">Darrell defends his turf when the buyers descend upon Costa Mesa, Calif.; Ivy Calvin comes across a unique tool; Jarrod and Brandi seek store stock.</desc>
+</programme>
+<programme start="20251211133000 +0000" stop="20251211140000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars</title>
+<desc lang="en">Dave hopes to score top-quality merchandise when the auction action shifts to Koreatown; Mary's locker comes with a high price; Brandi becomes annoyed with Jarrod's antics.</desc>
+</programme>
+<programme start="20251211140000 +0000" stop="20251211143000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars</title>
+<desc lang="en">The buyers battle in Rancho Cucamonga, Calif.; Dave Hester arrives in a truck large enough to fit his ego; Jarrod and Brandi obtain a vintage mask; Barry Weiss scores with a rock 'n' roll legend.</desc>
+</programme>
+<programme start="20251211143000 +0000" stop="20251211150000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars</title>
+<desc lang="en">The buyers seek to school Rene on his home turf; Darrell hopes to blast the competition; Jarrod and Brandi try to break out of their slump.</desc>
+</programme>
+<programme start="20251211150000 +0000" stop="20251211153000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars</title>
+<desc lang="en">Darrell and Brandon score big when when the buyers return to Moreno Valley, Calif.; Mary Padian looks for romance and attractive units.</desc>
+</programme>
+<programme start="20251211153000 +0000" stop="20251211160000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">Storage Wars</title>
+<desc lang="en">The buyers go to Moreno Valley, Calif.; Darrell tries to play nice; Barry Weiss lands an uncertain score.</desc>
+</programme>
+<programme start="20251211160000 +0000" stop="20251211170000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">The First 48</title>
+<desc lang="en">Police detectives uncover a petty motive after a shooter guns down a homeless man on a sidewalk in Mobile, Ala.</desc>
+</programme>
+<programme start="20251211170000 +0000" stop="20251211180000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">The First 48</title>
+<desc lang="en">An elderly New Orleans man is shot dead outside his home; Atlanta police work to identify the young man and woman caught on a store camera committing a murder in broad daylight.</desc>
+</programme>
+<programme start="20251211180000 +0000" stop="20251211190000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">The First 48</title>
+<desc lang="en">Surveillance video captures a bar owner being gunned down in a crowded Tulsa, Okla., bar as he tries to break up a fight between two dancers.</desc>
+</programme>
+<programme start="20251211190000 +0000" stop="20251211200000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">The First 48</title>
+<desc lang="en">A suburban teen is killed in a robbery gone bad, prompting a Minneapolis police detective to determine which of the victim's friends may have double-crossed him.</desc>
+</programme>
+<programme start="20251211200000 +0000" stop="20251211210000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">The First 48</title>
+<desc lang="en">A teenager, 7 months pregnant, is found dead in the woods near her house, and Gwinnett County detectives fear her killer may be hiding in plain sight.</desc>
+</programme>
+<programme start="20251211210000 +0000" stop="20251211220000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">The First 48</title>
+<desc lang="en">Detective Angela Carter takes over the case of a missing teenage girl and wonders if the key to her disappearance could lie shockingly close to home.</desc>
+</programme>
+<programme start="20251211220000 +0000" stop="20251211230000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">The First 48</title>
+<desc lang="en">A deadly home invasion sparks a manhunt for a stranger terrorizing a housing complex in Tulsa, Okla.</desc>
+</programme>
+<programme start="20251211230000 +0000" stop="20251212000000 +0000" channel="AandE.us(m3u4u)">
+<title lang="en">The First 48</title>
+<desc lang="en">Tulsa, Okla., detectives have little to go on when they find the naked body of an unknown homeless woman who was raped, strangled to death and thrown into a dumpster.</desc>
+</programme>
 <programme start="20251208010000 +0000" stop="20251208013000 +0000" channel="ABC7Chicago.us(m3u4u)">
 <title lang="en">ABC7 Eyewitness News at 5PM</title>
 <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
