@@ -83,7 +83,7 @@ https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.us@East",Disney XD
 http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-id="E.us@East",E!
+#EXTINF:-1 tvg-id="E.us@East",E Entertainment
 https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.us@SD",ESPN
