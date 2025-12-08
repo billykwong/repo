@@ -90,28 +90,28 @@ https://fl1.moveonjoy.com/TLC/index.m3u8
 #EXTINF:-1 tvg-id="TheTravelChannel.us(m3u4u)" tvg-name="Travel Channel" tvg-logo="" group-title="Lifestyle",Travel Channel
 http://fl1.moveonjoy.com/Travel_Channel/index.m3u8
 #EXTINF:-1 tvg-id="ABC7Chicago.us(m3u4u)" tvg-name="ABC" tvg-logo="" group-title="Local",ABC
-https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
-#EXTINF:-1 tvg-id="CBS(West).us(m3u4u)" tvg-name="CBS" tvg-logo="" group-title="Local",CBS
-https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
+https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WBBMDT.us(m3u4u)" tvg-name="CBS" tvg-logo="" group-title="Local",CBS
+https://fl1.moveonjoy.com/IL_Chicago_CBS/index.m3u8
 #EXTINF:-1 tvg-id="CWTV.us(m3u4u)" tvg-name="CW" tvg-logo="" group-title="Local",CW
 https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
 #EXTINF:-1 tvg-id="FOX32Chicago.us(m3u4u)" tvg-name="FOX" tvg-logo="" group-title="Local",FOX
-https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
-#EXTINF:-1 tvg-id="NBCNashville(WSMV4).us(m3u4u)" tvg-name="NBC" tvg-logo="" group-title="Local",NBC
-https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
+https://fl1.moveonjoy.com/IL_Chicago_FOX/index.m3u8
+#EXTINF:-1 tvg-id="WMAQDT.us(m3u4u)" tvg-name="NBC" tvg-logo="" group-title="Local",NBC
+https://fl1.moveonjoy.com/IL_Chicago_NBC/index.m3u8
 #EXTINF:-1 tvg-id="PBSStream.us(m3u4u)" tvg-name="PBS" tvg-logo="" group-title="Local",PBS
 https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MTV" tvg-logo="" group-title="Music",MTV
+#EXTINF:-1 tvg-id="MTV.us(m3u4u)" tvg-name="MTV" tvg-logo="" group-title="Music",MTV
 https://fl1.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MTV2" tvg-logo="" group-title="Music",MTV2
+#EXTINF:-1 tvg-id="MTV2.us(m3u4u)" tvg-name="MTV2" tvg-logo="" group-title="Music",MTV2
 https://fl1.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MTV Classic" tvg-logo="" group-title="Music",MTV Classic
+#EXTINF:-1 tvg-id="MTVClassic.us(m3u4u)" tvg-name="MTV Classic" tvg-logo="" group-title="Music",MTV Classic
 https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MTV Live" tvg-logo="" group-title="Music",MTV Live
+#EXTINF:-1 tvg-id="MTVLIVE.us(m3u4u)" tvg-name="MTV Live" tvg-logo="" group-title="Music",MTV Live
 https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Nick Music" tvg-logo="" group-title="Music",Nick Music
+#EXTINF:-1 tvg-id="NickMusic.us(m3u4u)" tvg-name="Nick Music" tvg-logo="" group-title="Music",Nick Music
 https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="VH1" tvg-logo="" group-title="Music",VH1
+#EXTINF:-1 tvg-id="VH1.us(m3u4u)" tvg-name="VH1" tvg-logo="" group-title="Music",VH1
 https://fl1.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.us(m3u4u)" tvg-name="Cinemax" tvg-logo="" group-title="Premium",Cinemax
 http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
