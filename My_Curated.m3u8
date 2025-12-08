@@ -1,20 +1,20 @@
 #EXTM3U
-#EXTINF:-1 group-title="CVTV",ABC
+#EXTINF:-1 tvg-id="ABC.us",ABC
 https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
 
-#EXTINF:-1 tvg-id="KRCGDT1.us",CBS
+#EXTINF:-1 tvg-id="CBS.us",CBS
 https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
 
-#EXTINF:-1 tvg-id="KYOUDT4.us",CW
+#EXTINF:-1 tvg-id="CW.us",CW
 https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
 
-#EXTINF:-1 group-title="CVTV",FOX
+#EXTINF:-1 tvg-id="FOX.us",FOX
 https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
 
-#EXTINF:-1 tvg-id="KOMUDT1.us",NBC
+#EXTINF:-1 tvg-id="NBC.us",NBC
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
 
-#EXTINF:-1 tvg-id="KMOSDT1.us",PBS
+#EXTINF:-1 tvg-id="PBS.us",PBS
 https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
 
 #EXTINF:-1 tvg-id="ACCNetwork.us@SD",ACC Network
@@ -77,28 +77,28 @@ https://a1xs.vip/300034
 #EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel
 https://fl1.moveonjoy.com/DISNEY/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior
+#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Jr.
 https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXD.us@East",Disney XD (720p)
+#EXTINF:-1 tvg-id="DisneyXD.us@East",Disney XD
 http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-id="E.us@East",E! East
+#EXTINF:-1 tvg-id="E.us@East",E!
 https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.us@SD",ESPN (720p)
+#EXTINF:-1 tvg-id="ESPN.us@SD",ESPN
 https://a1xs.vip/40000011
 
-#EXTINF:-1 tvg-id="ESPN2.us@SD",ESPN2 (720p)
+#EXTINF:-1 tvg-id="ESPN2.us@SD",ESPN 2
 https://a1xs.vip/40000012
 
-#EXTINF:-1 tvg-id="ESPNU.us@SD",ESPN U (720p)
+#EXTINF:-1 tvg-id="ESPNU.us@SD",ESPN U
 https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPNews.us@SD",ESPNews (720p)
+#EXTINF:-1 tvg-id="ESPNews.us@SD",ESPNews
 https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 
-#EXTINF:-1 tvg-id="FanDuelSportsNetwork.us@HD",FanDuel Sports
+#EXTINF:-1 tvg-id="FanDuelSportsNetwork.us@HD",FanDuel
 https://fl1.moveonjoy.com/PAC_12/index.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetwork.us",Food Network
@@ -113,10 +113,10 @@ https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports.us",Fox Sports
 https://s11host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/lg.m3u8?ads.cdnhost=s11host1.localnow.api.cms.amdvids.com&ads.playbackid=2D77A7BA-2E3D-42AA-95DD-72494995A81E&ads.n1=rule_id&ads.v1=CA34390D-452C-4830-B084-998E2DB1A079-1755113457&ads.n3=qp_content_id&ads.v3=2D77A7BA-2E3D-42AA-95DD-72494995A81E&ads.n4=content_name&ads.v4=FOX%20Sports&ads.n21=network_name&ads.v21=fox-sports&ads.n22=channel_language&ads.v22=en&ads.n23=app_store_url&ads.v23=&ads.n24=gpp_sid&ads.v24=&ads.n25=did&ads.v25=&ads.n26=channel_title&ads.v26=FOX%20Sports&ads.n27=url&ads.v27=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n28=channel_rating&ads.v28=TV-PG&ads.n29=channel_ext_id&ads.v29=&ads.n30=content_livestream&ads.v30=1&ads.n31=pos&ads.v31=midroll&ads.n32=channel_id&ads.v32=2D77A7BA-2E3D-42AA-95DD-72494995A81E&ads.n33=cust_devicename&ads.v33=desktop_web&ads.n34=content_custom_2_param&ads.v34=AMDB013655&ads.n35=us_privacy&ads.v35=1YNY&ads.n36=channel_name&ads.v36=FOX%20Sports&ads.n37=content_provider&ads.v37=fox-sports&ads.n38=device_make&ads.v38=&ads.n39=app_bundle&ads.v39=&ads.n40=channel_corp&ads.v40=Fox%20News%20Network&ads.n41=gpp&ads.v41=&ads.n42=content_custom_1_param&ads.v42=2D77A7BA-2E3D-42AA-95DD-72494995A81E&ads.n43=channel_company_id&ads.v43=AMDP500565&ads.n44=w&ads.v44=1920&ads.n45=app_name&ads.v45=&ads.n46=dnt&ads.v46=&ads.n47=content_producer_name&ads.v47=Fox%20News%20Network&ads.n48=content_custom_3_param&ads.v48=channel&ads.n49=content_type&ads.v49=channel&ads.n50=app_version&ads.v50=0.0.0&ads.n51=ip&ads.v51=193.228.206.147&ads.n52=ua&ads.v52=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n53=device_type&ads.v53=&ads.n54=channel_brand_id&ads.v54=AMDB013655&ads.n55=h&ads.v55=1080&ads.n56=ifa_type&ads.v56=&ads.n57=device_model&ads.v57=&ads.n58=channel_genre&ads.v58=New%20on%20Local%20Now
 
-#EXTINF:-1 tvg-id="FoxSports1",FS1
+#EXTINF:-1 tvg-id="FoxSports1",Fox Sports 1
 https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports2",FS2
+#EXTINF:-1 tvg-id="FoxSports2",Fox Sports 2
 https://a1xs.vip/40000022
 
 #EXTINF:-1 tvg-id="FX.us@East",FX
@@ -131,7 +131,7 @@ https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="HBO.us",HBO
 https://fl1.moveonjoy.com/HBO/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO2.us",HBO2
+#EXTINF:-1 tvg-id="HBO2.us",HBO 2
 https://fl1.moveonjoy.com/HBO_2/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOComedy.us",HBO Comedy
@@ -158,7 +158,7 @@ https://fl1.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="MGMPlus.us@East",MGM+
 https://fl1.moveonjoy.com/EPIX/index.m3u8
 
-#EXTINF:-1 tvg-id="MGMPlusMarquee.us@SD",MGM+ Marquee
+#EXTINF:-1 tvg-id="MGMPlusMarquee.us@SD",MGM Marquee
 https://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 
 #EXTINF:-1 tvg-id="MLBNetwork.us@SD",MLB Network
@@ -170,7 +170,7 @@ https://fl1.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="MTV.us@East",MTV
 https://fl1.moveonjoy.com/MTV/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV2.us@East",MTV2
+#EXTINF:-1 tvg-id="MTV2.us@East",MTV 2
 https://fl1.moveonjoy.com/MTV_2/index.m3u8
 
 #EXTINF:-1 tvg-id="MTVClassic.us@East",MTV Classic
@@ -260,7 +260,7 @@ https://fl1.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1 tvg-id="Travel.us",Travel
 http://fl1.moveonjoy.com/Travel_Channel/index.m3u8
 
-#EXTINF:-1 tvg-id="TruTV.us",TruTV
+#EXTINF:-1 tvg-id="TruTV.us",Tru
 https://fl1.moveonjoy.com/TRU_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN1.ca@SD",TSN1
@@ -284,5 +284,5 @@ http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="VH1.us@East",VH1
 https://fl1.moveonjoy.com/VH1/index.m3u8
 
-#EXTINF:-1 tvg-id="VICETV.us@SD",VICE TV
+#EXTINF:-1 tvg-id="VICETV.us@SD",VICE
 https://fl1.moveonjoy.com/VICELAND/index.m3u8
