@@ -21,12 +21,16 @@ https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 https://fl7.moveonjoy.com/HLN/index.m3u8
 #EXTINF:-1 tvg-id="MSNBC(src01).us(m3u4u)" tvg-name="MSNBC" tvg-logo="" group-title="News",MSNBC
 https://fl1.moveonjoy.com/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="NewsmaxTV.us(m3u4u)" tvg-name="Newsmax" tvg-logo="" group-title="News",Newsmax
+https://a1xs.vip/300012
 #EXTINF:-1 tvg-id="AnimalPlanet.us(m3u4u)" tvg-name="Animal Planet" tvg-logo="" group-title="Documentaries",Animal Planet
 https://fl1.moveonjoy.com/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.us(m3u4u)" tvg-name="Discovery" tvg-logo="" group-title="Documentaries",Discovery
 https://a1xs.vip/300034
 #EXTINF:-1 tvg-id="History.us(m3u4u)" tvg-name="History" tvg-logo="" group-title="Documentaries",History
 https://fl1.moveonjoy.com/history_channel/index.m3u8
+#EXTINF:-1 tvg-id="MilitaryHistoryChannel.us(m3u4u)" tvg-name="Military History" tvg-logo="" group-title="Documentaries",Military History
+https://fl1.moveonjoy.com/Military_History/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us(m3u4u)" tvg-name="National Geographic" tvg-logo="" group-title="Documentaries",National Geographic
 https://fl1.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.us(m3u4u)" tvg-name="National Geographic Wild" tvg-logo="" group-title="Documentaries",National Geographic Wild
@@ -49,22 +53,30 @@ https://fl1.moveonjoy.com/FX/index.m3u8
 https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.us(m3u4u)" tvg-name="Lifetime" tvg-logo="" group-title="Entertainment",Lifetime
 https://fl1.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="MOTORTREND.us(m3u4u)" tvg-name="Motor Trend" tvg-logo="" group-title="Entertainment",Motor Trend
+https://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.us(m3u4u)" tvg-name="Paramount" tvg-logo="" group-title="Entertainment",Paramount
 https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="SundanceTV.us(m3u4u)" tvg-name="Sundance" tvg-logo="" group-title="Entertainment",Sundance
 https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
 #EXTINF:-1 tvg-id="SYFY.us(m3u4u)" tvg-name="Syfy" tvg-logo="" group-title="Entertainment",Syfy
 https://fl1.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="TBS.us(m3u4u)" tvg-name="TBS" tvg-logo="" group-title="Entertainment",TBS
+https://a1xs.vip/300038
 #EXTINF:-1 tvg-id="TheTMZChannel.us(m3u4u)" tvg-name="TMZ" tvg-logo="" group-title="Entertainment",TMZ
 https://jmp2.uk/stvp-USBD70000213
 #EXTINF:-1 tvg-id="TNT.us(m3u4u)" tvg-name="TNT" tvg-logo="" group-title="Entertainment",TNT
 https://fl1.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1 tvg-id="truTV.us(m3u4u)" tvg-name="TruTV" tvg-logo="" group-title="Entertainment",TruTV
 https://fl1.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1 tvg-id="TVLand.us(m3u4u)" tvg-name="TV Land" tvg-logo="" group-title="Entertainment",TV Land
+https://fl1.moveonjoy.com/TV_LAND/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us(m3u4u)" tvg-name="USA Network" tvg-logo="" group-title="Entertainment",USA Network
 http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Vice.us(m3u4u)" tvg-name="Vice TV" tvg-logo="" group-title="Entertainment",Vice TV
 https://fl1.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 tvg-id="YesNetwork.us(m3u4u)" tvg-name="Yes Network" tvg-logo="" group-title="Entertainment",Yes Network
+https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us(m3u4u)" tvg-name="Cartoon Network" tvg-logo="" group-title="Kids",Cartoon Network
 https://a1xs.vip/300032
 #EXTINF:-1 tvg-id="DisneyChannel.us(m3u4u)" tvg-name="Disney Channel" tvg-logo="" group-title="Kids",Disney Channel
@@ -81,12 +93,24 @@ https://fl1.moveonjoy.com/NICK_JR/index.m3u8
 https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="CookingChannel.us(m3u4u)" tvg-name="Cooking Channel" tvg-logo="" group-title="Lifestyle",Cooking Channel
 https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="DestinationAmerica.us(m3u4u)" tvg-name="Destination America" tvg-logo="" group-title="Lifestyle",Destination America
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.us(m3u4u)" tvg-name="Food Network" tvg-logo="" group-title="Lifestyle",Food Network
 http://fl41.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="FYI.us(m3u4u)" tvg-name="FYI" tvg-logo="" group-title="Lifestyle",FYI
+https://fl1.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 tvg-id="HGTV.us(m3u4u)" tvg-name="HGTV" tvg-logo="" group-title="Lifestyle",HGTV
 http://fl2.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1 tvg-id="HSN.us(m3u4u)" tvg-name="HSN" tvg-logo="" group-title="Lifestyle",HSN
 https://fl1.moveonjoy.com/HSN/index.m3u8
+#EXTINF:-1 tvg-id="MagnoliaNetwork.us(m3u4u)" tvg-name="Magnolia Network" tvg-logo="" group-title="Lifestyle",Magnolia Network
+https://fl1.moveonjoy.com/DIY/index.m3u8
+#EXTINF:-1 tvg-id="OprahWinfreyNetwork.us(m3u4u)" tvg-name="Oprah Winfrey Network" tvg-logo="" group-title="Lifestyle",Oprah Winfrey Network
+https://fl1.moveonjoy.com/OWN/index.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us(m3u4u)" tvg-name="Outdoor Channel" tvg-logo="" group-title="Lifestyle",Outdoor Channel
+https://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="QVC.us(m3u4u)" tvg-name="QVC" tvg-logo="" group-title="Lifestyle",QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/master.m3u8
 #EXTINF:-1 tvg-id="TLC.us(m3u4u)" tvg-name="TLC" tvg-logo="" group-title="Lifestyle",TLC
 https://fl1.moveonjoy.com/TLC/index.m3u8
 #EXTINF:-1 tvg-id="TheTravelChannel.us(m3u4u)" tvg-name="Travel Channel" tvg-logo="" group-title="Lifestyle",Travel Channel
@@ -129,7 +153,7 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 https://fl1.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 tvg-id="MGMplusMarquee.us(m3u4u)" tvg-name="MGM+ Marquee" tvg-logo="" group-title="Premium",MGM+ Marquee
 https://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 tvg-id="PlayboyTV.us(m3u4u)" tvg-name="Playboy TV" tvg-logo="" group-title="Premium",Playboy TV
+#EXTINF:-1 tvg-id="Playboy.us(m3u4u)" tvg-name="Playboy TV" tvg-logo="" group-title="Premium",Playboy TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="ParamountpluswithShowtime.us(m3u4u)" tvg-name="Showtime" tvg-logo="" group-title="Premium",Showtime
 https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
@@ -143,6 +167,10 @@ https://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 tvg-id="Starz.us(m3u4u)" tvg-name="Starz" tvg-logo="" group-title="Premium",Starz
 https://fl1.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-id="StarzComedy.us(m3u4u)" tvg-name="Starz Comedy" tvg-logo="" group-title="Premium",Starz Comedy
+https://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="StarzEdge.us(m3u4u)" tvg-name="Starz Edge" tvg-logo="" group-title="Premium",Starz Edge
+https://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8
 #EXTINF:-1 tvg-id="StarzEncoreClassic.us(m3u4u)" tvg-name="Starz Encore Classic" tvg-logo="" group-title="Premium",Starz Encore Classic
 https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-id="Starz(Pacific).us(m3u4u)" tvg-name="Starz West" tvg-logo="" group-title="Premium",Starz West
