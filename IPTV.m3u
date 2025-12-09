@@ -23,6 +23,8 @@ https://fl7.moveonjoy.com/HLN/index.m3u8
 https://fl1.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="NewsmaxTV.us(m3u4u)" tvg-name="Newsmax" tvg-logo="" group-title="News",Newsmax
 https://a1xs.vip/300012
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork(src01).us(m3u4u)" tvg-name="One America News Network" tvg-logo="" group-title="News",One America News Network
+https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.us(m3u4u)" tvg-name="Animal Planet" tvg-logo="" group-title="Documentaries",Animal Planet
 https://fl1.moveonjoy.com/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.us(m3u4u)" tvg-name="Discovery" tvg-logo="" group-title="Documentaries",Discovery
