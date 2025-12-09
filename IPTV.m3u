@@ -27,6 +27,8 @@ https://fl7.moveonjoy.com/HLN/index.m3u8
 https://fl1.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="NewsmaxTV.us(m3u4u)" tvg-name="Newsmax" tvg-logo="" group-title="News",Newsmax
 https://a1xs.vip/300012
+#EXTINF:-1 tvg-id="NewsNation.us(m3u4u)" tvg-name="NewsNation" tvg-logo="" group-title="News",NewsNation
+https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-id="OneAmericaNewsNetwork(src01).us(m3u4u)" tvg-name="One America News Network" tvg-logo="" group-title="News",One America News Network
 https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us(m3u4u)" tvg-name="Yahoo! Finance" tvg-logo="" group-title="News",Yahoo! Finance
@@ -81,12 +83,16 @@ https://fl1.moveonjoy.com/ION_TV/index.m3u8
 https://fl1.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="MOTORTREND.us(m3u4u)" tvg-name="Motor Trend" tvg-logo="" group-title="Entertainment",Motor Trend
 https://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1 tvg-id="OutsideTelevision.us(m3u4u)" tvg-name="Outside TV" tvg-logo="" group-title="Entertainment",Outside TV
+https://jmp2.uk/stvp-USAJ3504707A
 #EXTINF:-1 tvg-id="OxygenTrueCrime.us(m3u4u)" tvg-name="Oxygen True Crime" tvg-logo="" group-title="Entertainment",Oxygen True Crime
 https://jmp2.uk/plu-654930a8346f420008d3b0b8.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.us(m3u4u)" tvg-name="Paramount" tvg-logo="" group-title="Entertainment",Paramount
 https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="POP.us(m3u4u)" tvg-name="Pop" tvg-logo="" group-title="Entertainment",Pop
 https://fl1.moveonjoy.com/Pop_TV/index.m3u8
+#EXTINF:-1 tvg-id="RACERNetwork.us(m3u4u)" tvg-name="Racer Network" tvg-logo="" group-title="Entertainment",Racer Network
+http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
 #EXTINF:-1 tvg-id="SundanceTV.us(m3u4u)" tvg-name="Sundance" tvg-logo="" group-title="Entertainment",Sundance
 https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
 #EXTINF:-1 tvg-id="SYFY.us(m3u4u)" tvg-name="Syfy" tvg-logo="" group-title="Entertainment",Syfy
@@ -215,6 +221,8 @@ https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
 #EXTINF:-1 tvg-id="ACCNetwork.us(m3u4u)" tvg-name="ACC Network" tvg-logo="" group-title="Sports",ACC Network
 https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="beINSports.us(m3u4u)" tvg-name="beIN Sports" tvg-logo="" group-title="Sports",beIN Sports
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="BigTenNetwork.us(m3u4u)" tvg-name="Big Ten Network" tvg-logo="" group-title="Sports",Big Ten Network
 https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us(m3u4u)" tvg-name="CBS Sports" tvg-logo="" group-title="Sports",CBS Sports
@@ -235,19 +243,31 @@ https://jmp2.uk/stvp-US2700001QY
 https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="FS2(Spanish).us(m3u4u)" tvg-name="FS2" tvg-logo="" group-title="Sports",FS2
 https://a1xs.vip/40000022
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us(m3u4u)" tvg-name="Fubo Sports Network" tvg-logo="" group-title="Sports",Fubo Sports Network
+https://jmp2.uk/stvp-USAJ2200023Z0
 #EXTINF:-1 tvg-id="GolfChannel.us(m3u4u)" tvg-name="Golf Channel" tvg-logo="" group-title="Sports",Golf Channel
 https://fl1.moveonjoy.com/GOLF/index.m3u8
 #EXTINF:-1 tvg-id="MLBNetwork.us(m3u4u)" tvg-name="MLB Network" tvg-logo="" group-title="Sports",MLB Network
 https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MSGSportsZone.us(m3u4u)" tvg-name="MSG" tvg-logo="" group-title="Sports",MSG
+http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us(m3u4u)" tvg-name="NBA TV" tvg-logo="" group-title="Sports",NBA TV
 https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us(m3u4u)" tvg-name="NFL Network" tvg-logo="" group-title="Sports",NFL Network
 https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us(m3u4u)" tvg-name="NHL Network" tvg-logo="" group-title="Sports",NHL Network
 https://live-manifest.production-public.tubi.io/live/2cfb4368-6c7e-4075-bc1f-69f7141a8012/playlist.m3u8
+#EXTINF:-1 tvg-id="PursuitChannel.us(m3u4u)" tvg-name="Pursuit" tvg-logo="" group-title="Sports",Pursuit
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63628eb88e4b18ca22f897dc.m3u8
 #EXTINF:-1 tvg-id="SECNetwork.us(m3u4u)" tvg-name="SEC Network" tvg-logo="" group-title="Sports",SEC Network
 https://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us(m3u4u)" tvg-name="Tennis Channel" tvg-logo="" group-title="Sports",Tennis Channel
 https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="TSN.us(m3u4u)" tvg-name="TSN" tvg-logo="" group-title="Sports",TSN
 https://fl1.moveonjoy.com/TSN/index.m3u8
+#EXTINF:-1 tvg-id="WillowCricket.us(m3u4u)" tvg-name="Willow" tvg-logo="" group-title="Sports",Willow
+https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+#EXTINF:-1 tvg-id="WorldFishingNetwork(US).us(m3u4u)" tvg-name="World Fishing Network" tvg-logo="" group-title="Sports",World Fishing Network
+https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="YesNetwork.us(m3u4u)" tvg-name="YES Network" tvg-logo="" group-title="Sports",YES Network
+https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
