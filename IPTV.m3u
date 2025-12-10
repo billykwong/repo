@@ -282,7 +282,7 @@ http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us(m3u4u)" tvg-name="NBA TV" tvg-logo="" group-title="Sports",NBA TV
 https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id="NESN4K.us(m3u4u)" tvg-name="NESN" tvg-logo="" group-title="Sports",NESN
-https://a1xs.vip/4000080
+http://23.237.104.106:8080/USA_NESN/index.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us(m3u4u)" tvg-name="NFL Network" tvg-logo="" group-title="Sports",NFL Network
 https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us(m3u4u)" tvg-name="NHL Network" tvg-logo="" group-title="Sports",NHL Network
