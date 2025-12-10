@@ -1,52 +1,28 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/d5k2nvmj7vf3zzrpy984"
-#EXTINF:-1 tvg-id="BBCAmerica.us(m3u4u)" tvg-name="BBC America" tvg-logo="" group-title="News",BBC America
-https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1 tvg-id="BBCNews.us(m3u4u)" tvg-name="BBC News" tvg-logo="" group-title="News",BBC News
-https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us(m3u4u)" tvg-name="Bloomberg TV" tvg-logo="" group-title="News",Bloomberg TV
-https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8
-#EXTINF:-1 tvg-id="Cheddar.us(m3u4u)" tvg-name="Cheddar News" tvg-logo="" group-title="News",Cheddar News
-https://wurlcheddar.global.transmit.live/hls/689ceac9301c34d3919676f3/v1/Cheddar/samsung_us/latest/main/hls/playlist.m3u8?wurl_channel=172&wurl_name=Cheddar&coppa=0&pr=1YNY&rdid=%7BPSID%7D&dnt=%7BTARGETOPT%7D&appstoreurl=%7BAPP_DOMAIN%7D&appname=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="CNBC.us(m3u4u)" tvg-name="CNBC" tvg-logo="" group-title="News",CNBC
-https://fl1.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="CNBCWorld.us(m3u4u)" tvg-name="CNBC World" tvg-logo="" group-title="News",CNBC World
-https://fl1.moveonjoy.com/CNBC_World/index.m3u8
-#EXTINF:-1 tvg-id="CNN.us(m3u4u)" tvg-name="CNN" tvg-logo="" group-title="News",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CourtTVLegendaryTrials.us(m3u4u)" tvg-name="Court TV" tvg-logo="" group-title="News",Court TV
-https://jmp2.uk/stvp-USBA34000049Z
-#EXTINF:-1 tvg-id="CSPAN.us(m3u4u)" tvg-name="C-SPAN" tvg-logo="" group-title="News",C-SPAN
-https://fl1.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:-1 tvg-id="FoxBusiness.us(m3u4u)" tvg-name="Fox Business" tvg-logo="" group-title="News",Fox Business
-https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us(m3u4u)" tvg-name="Fox News" tvg-logo="" group-title="News",Fox News
-https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="HLN.us(m3u4u)" tvg-name="HLN" tvg-logo="" group-title="News",HLN
-https://fl7.moveonjoy.com/HLN/index.m3u8
-#EXTINF:-1 tvg-id="MSNBC(src01).us(m3u4u)" tvg-name="MSNBC" tvg-logo="" group-title="News",MSNBC
-https://fl1.moveonjoy.com/MSNBC/index.m3u8
-#EXTINF:-1 tvg-id="NewsmaxTV.us(m3u4u)" tvg-name="Newsmax" tvg-logo="" group-title="News",Newsmax
-https://a1xs.vip/300012
-#EXTINF:-1 tvg-id="NewsNation.us(m3u4u)" tvg-name="NewsNation" tvg-logo="" group-title="News",NewsNation
-https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
-#EXTINF:-1 tvg-id="OneAmericaNewsNetwork(src01).us(m3u4u)" tvg-name="One America News Network" tvg-logo="" group-title="News",One America News Network
-https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="YahooFinance.us(m3u4u)" tvg-name="Yahoo! Finance" tvg-logo="" group-title="News",Yahoo! Finance
-https://yahoo-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericanHeroesChannel.us(m3u4u)" tvg-name="American Heroes Channel" tvg-logo="" group-title="Documentaries",American Heroes Channel
 https://fl1.moveonjoy.com/American_Heroes_Channel/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.us(m3u4u)" tvg-name="Animal Planet" tvg-logo="" group-title="Documentaries",Animal Planet
 https://fl1.moveonjoy.com/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.us(m3u4u)" tvg-name="Discovery" tvg-logo="" group-title="Documentaries",Discovery
 https://a1xs.vip/300034
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us(m3u4u)" tvg-name="Discovery Family" tvg-logo="" group-title="Documentaries",Discovery Family
+https://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us(m3u4u)" tvg-name="Discovery Life" tvg-logo="" group-title="Documentaries",Discovery Life
+https://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 #EXTINF:-1 tvg-id="History.us(m3u4u)" tvg-name="History" tvg-logo="" group-title="Documentaries",History
 https://fl1.moveonjoy.com/history_channel/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.us(m3u4u)" tvg-name="Investigation Discovery" tvg-logo="" group-title="Documentaries",Investigation Discovery
 https://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id="LoveNature.us(m3u4u)" tvg-name="Love Nature" tvg-logo="" group-title="Documentaries",Love Nature
+https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us(m3u4u)" tvg-name="National Geographic" tvg-logo="" group-title="Documentaries",National Geographic
 https://fl1.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.us(m3u4u)" tvg-name="National Geographic Wild" tvg-logo="" group-title="Documentaries",National Geographic Wild
 https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="ScienceChannel.us(m3u4u)" tvg-name="Science Channel" tvg-logo="" group-title="Documentaries",Science Channel
+http://fl1.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 tvg-id="SmithsonianNetwork.us(m3u4u)" tvg-name="Smithsonian Channel" tvg-logo="" group-title="Documentaries",Smithsonian Channel
+https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="AandE.us(m3u4u)" tvg-name="A&E" tvg-logo="" group-title="Entertainment",A&E
 https://fl1.moveonjoy.com/ANE/index.m3u8
 #EXTINF:-1 tvg-id="AMC.us(m3u4u)" tvg-name="AMC" tvg-logo="" group-title="Entertainment",AMC
@@ -71,8 +47,16 @@ https://fl1.moveonjoy.com/COMET/index.m3u8
 https://fl1.moveonjoy.com/COZI_TV/index.m3u8
 #EXTINF:-1 tvg-id="EEntertainmentTelevision.us(m3u4u)" tvg-name="E! Entertainment" tvg-logo="" group-title="Entertainment",E! Entertainment
 https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 tvg-id="FOXSOUL.us(m3u4u)" tvg-name="Fox Soul" tvg-logo="" group-title="Entertainment",Fox Soul
+https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="Freeform.us(m3u4u)" tvg-name="Freeform" tvg-logo="" group-title="Entertainment",Freeform
+https://fl1.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTINF:-1 tvg-id="FX.us(m3u4u)" tvg-name="FX" tvg-logo="" group-title="Entertainment",FX
 https://fl1.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-id="FXM.us(m3u4u)" tvg-name="FXM" tvg-logo="" group-title="Entertainment",FXM
+https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-id="FXX.us(m3u4u)" tvg-name="FXX" tvg-logo="" group-title="Entertainment",FXX
+https://fl1.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkChannel.us(m3u4u)" tvg-name="Hallmark Channel" tvg-logo="" group-title="Entertainment",Hallmark Channel
 https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="IFC.us(m3u4u)" tvg-name="IFC" tvg-logo="" group-title="Entertainment",IFC
@@ -85,14 +69,16 @@ https://fl1.moveonjoy.com/LIFETIME/index.m3u8
 https://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
 #EXTINF:-1 tvg-id="OutsideTelevision.us(m3u4u)" tvg-name="Outside TV" tvg-logo="" group-title="Entertainment",Outside TV
 https://jmp2.uk/stvp-USAJ3504707A
-#EXTINF:-1 tvg-id="OxygenTrueCrime.us(m3u4u)" tvg-name="Oxygen True Crime" tvg-logo="" group-title="Entertainment",Oxygen True Crime
-https://jmp2.uk/plu-654930a8346f420008d3b0b8.m3u8
+#EXTINF:-1 tvg-id="OxygenTrueCrime.us(m3u4u)" tvg-name="Oxygen" tvg-logo="" group-title="Entertainment",Oxygen
+https://fl1.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.us(m3u4u)" tvg-name="Paramount" tvg-logo="" group-title="Entertainment",Paramount
 https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="POP.us(m3u4u)" tvg-name="Pop" tvg-logo="" group-title="Entertainment",Pop
 https://fl1.moveonjoy.com/Pop_TV/index.m3u8
 #EXTINF:-1 tvg-id="RACERNetwork.us(m3u4u)" tvg-name="Racer Network" tvg-logo="" group-title="Entertainment",Racer Network
 http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
+#EXTINF:-1 tvg-id="Revolt.us(m3u4u)" tvg-name="Revolt" tvg-logo="" group-title="Entertainment",Revolt
+https://fl1.moveonjoy.com/REVOLT/index.m3u8
 #EXTINF:-1 tvg-id="SundanceTV.us(m3u4u)" tvg-name="Sundance" tvg-logo="" group-title="Entertainment",Sundance
 https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
 #EXTINF:-1 tvg-id="SYFY.us(m3u4u)" tvg-name="Syfy" tvg-logo="" group-title="Entertainment",Syfy
@@ -183,6 +169,42 @@ https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
 https://fl1.moveonjoy.com/REVOLT/index.m3u8
 #EXTINF:-1 tvg-id="VH1.us(m3u4u)" tvg-name="VH1" tvg-logo="" group-title="Music",VH1
 https://fl1.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us(m3u4u)" tvg-name="BBC America" tvg-logo="" group-title="News",BBC America
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCNews.us(m3u4u)" tvg-name="BBC News" tvg-logo="" group-title="News",BBC News
+https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.us(m3u4u)" tvg-name="Bloomberg TV" tvg-logo="" group-title="News",Bloomberg TV
+https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8
+#EXTINF:-1 tvg-id="Cheddar.us(m3u4u)" tvg-name="Cheddar News" tvg-logo="" group-title="News",Cheddar News
+https://livetv-fa.tubi.video/cheddar/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.us(m3u4u)" tvg-name="CNBC" tvg-logo="" group-title="News",CNBC
+https://fl1.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="CNBCWorld.us(m3u4u)" tvg-name="CNBC World" tvg-logo="" group-title="News",CNBC World
+https://fl1.moveonjoy.com/CNBC_World/index.m3u8
+#EXTINF:-1 tvg-id="CNN.us(m3u4u)" tvg-name="CNN" tvg-logo="" group-title="News",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CourtTVLegendaryTrials.us(m3u4u)" tvg-name="Court TV" tvg-logo="" group-title="News",Court TV
+https://jmp2.uk/stvp-USBA34000049Z
+#EXTINF:-1 tvg-id="CSPAN.us(m3u4u)" tvg-name="C-SPAN" tvg-logo="" group-title="News",C-SPAN
+https://fl1.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 tvg-id="FoxBusiness.us(m3u4u)" tvg-name="Fox Business" tvg-logo="" group-title="News",Fox Business
+https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us(m3u4u)" tvg-name="Fox News" tvg-logo="" group-title="News",Fox News
+https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="HLN.us(m3u4u)" tvg-name="HLN" tvg-logo="" group-title="News",HLN
+https://fl7.moveonjoy.com/HLN/index.m3u8
+#EXTINF:-1 tvg-id="MSNBC(src01).us(m3u4u)" tvg-name="MSNBC" tvg-logo="" group-title="News",MSNBC
+https://fl1.moveonjoy.com/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="NewsmaxTV.us(m3u4u)" tvg-name="Newsmax" tvg-logo="" group-title="News",Newsmax
+https://a1xs.vip/300012
+#EXTINF:-1 tvg-id="NewsNation.us(m3u4u)" tvg-name="NewsNation" tvg-logo="" group-title="News",NewsNation
+https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork(src01).us(m3u4u)" tvg-name="One America News Network" tvg-logo="" group-title="News",One America News Network
+https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us(m3u4u)" tvg-name="Yahoo! Finance" tvg-logo="" group-title="News",Yahoo! Finance
+https://yahoo-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ReelzChannel.us(m3u4u)" tvg-name="Reelz" tvg-logo="" group-title="Premium",Reelz
+https://fl1.moveonjoy.com/REELZ/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.us(m3u4u)" tvg-name="Cinemax" tvg-logo="" group-title="Premium",Cinemax
 http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="HBO.us(m3u4u)" tvg-name="HBO" tvg-logo="" group-title="Premium",HBO
@@ -195,8 +217,12 @@ https://fl1.moveonjoy.com/HBO_2/index.m3u8
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="MGMplus.us(m3u4u)" tvg-name="MGM+" tvg-logo="" group-title="Premium",MGM+
 https://fl1.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-id="MGMplusMarquee.us(m3u4u)" tvg-name="MGM+ Marquee" tvg-logo="" group-title="Premium",MGM+ Marquee
+#EXTINF:-1 tvg-id="MGMplusDriveIn.us(m3u4u)" tvg-name="MGM+ Drive In" tvg-logo="" group-title="Premium",MGM+ Drive In
 https://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-id="MGMplusHits.us(m3u4u)" tvg-name="MGM+ Hits" tvg-logo="" group-title="Premium",MGM+ Hits
+https://fl1.moveonjoy.com/EPIX_2/index.m3u8
+#EXTINF:-1 tvg-id="MGMplusMarquee.us(m3u4u)" tvg-name="MGM+ Marquee" tvg-logo="" group-title="Premium",MGM+ Marquee
+https://fl1.moveonjoy.com/EPIX_HITS/index.m3u8
 #EXTINF:-1 tvg-id="Playboy.us(m3u4u)" tvg-name="Playboy TV" tvg-logo="" group-title="Premium",Playboy TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="ParamountpluswithShowtime.us(m3u4u)" tvg-name="Showtime" tvg-logo="" group-title="Premium",Showtime
@@ -229,12 +255,12 @@ https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.us(m3u4u)" tvg-name="ESPN" tvg-logo="" group-title="Sports",ESPN
 https://a1xs.vip/40000011
+#EXTINF:-1 tvg-id="ESPNEWS.us(m3u4u)" tvg-name="ESPN News" tvg-logo="" group-title="Sports",ESPN News
+https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us(m3u4u)" tvg-name="ESPN2" tvg-logo="" group-title="Sports",ESPN2
 https://a1xs.vip/40000012
 #EXTINF:-1 tvg-id="ESPNU.us(m3u4u)" tvg-name="ESPNU" tvg-logo="" group-title="Sports",ESPNU
 https://fl1.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 tvg-id="ESPNEWS.us(m3u4u)" tvg-name="ESPN News" tvg-logo="" group-title="Sports",ESPN News
-https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="FanDuelTV.us(m3u4u)" tvg-name="FanDuel" tvg-logo="" group-title="Sports",FanDuel
 https://fl1.moveonjoy.com/PAC_12/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports3(Spanish).us(m3u4u)" tvg-name="Fox Sports" tvg-logo="" group-title="Sports",Fox Sports
@@ -244,15 +270,19 @@ https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="FS2(Spanish).us(m3u4u)" tvg-name="FS2" tvg-logo="" group-title="Sports",FS2
 https://a1xs.vip/40000022
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us(m3u4u)" tvg-name="Fubo Sports Network" tvg-logo="" group-title="Sports",Fubo Sports Network
-https://jmp2.uk/stvp-USAJ2200023Z0
+https://livetv-fa.tubi.video/fubo/master.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.us(m3u4u)" tvg-name="Golf Channel" tvg-logo="" group-title="Sports",Golf Channel
 https://fl1.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:-1 tvg-id="MarqueeSportsNetwork.us(m3u4u)" tvg-name="Marquee Sports Network" tvg-logo="" group-title="Sports",Marquee Sports Network
+https://fl1.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="MLBNetwork.us(m3u4u)" tvg-name="MLB Network" tvg-logo="" group-title="Sports",MLB Network
 https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="MSGSportsZone.us(m3u4u)" tvg-name="MSG" tvg-logo="" group-title="Sports",MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us(m3u4u)" tvg-name="NBA TV" tvg-logo="" group-title="Sports",NBA TV
 https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="NESN4K.us(m3u4u)" tvg-name="NESN" tvg-logo="" group-title="Sports",NESN
+https://a1xs.vip/4000080
 #EXTINF:-1 tvg-id="NFLNetwork.us(m3u4u)" tvg-name="NFL Network" tvg-logo="" group-title="Sports",NFL Network
 https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us(m3u4u)" tvg-name="NHL Network" tvg-logo="" group-title="Sports",NHL Network
