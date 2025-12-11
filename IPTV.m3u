@@ -99,8 +99,6 @@ http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
 https://fl1.moveonjoy.com/VICELAND/index.m3u8
 #EXTINF:-1 tvg-id="WEtv.us(m3u4u)" tvg-name="We TV" tvg-logo="" group-title="Entertainment",We TV
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
-#EXTINF:-1 tvg-id="YesNetwork.us(m3u4u)" tvg-name="Yes Network" tvg-logo="" group-title="Entertainment",Yes Network
-https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us(m3u4u)" tvg-name="Cartoon Network" tvg-logo="" group-title="Kids",Cartoon Network
 https://a1xs.vip/300032
 #EXTINF:-1 tvg-id="DisneyChannel.us(m3u4u)" tvg-name="Disney Channel" tvg-logo="" group-title="Kids",Disney Channel
